@@ -9,7 +9,7 @@
       "bytes": 1017261,
       "sha256": "07b4673e7103109ea85fc61e15309e90f85a85f8fa8c920dede4537129315094",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "iris_bunny",
@@ -18,7 +18,7 @@
       "bytes": 889134,
       "sha256": "9bcb01a472cdea79f71760961c7ed7a75df3db99d19f46238d57541be11493bf",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "iris_classic",
@@ -27,7 +27,7 @@
       "bytes": 487653,
       "sha256": "e1aee88434ffd2bd4abf4bc98885cd57461255c76731a2c72b575107f96f4c6a",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "iris_flames",
@@ -36,7 +36,7 @@
       "bytes": 727291,
       "sha256": "7e89eac1cc21a9e2a4dd3e93a3b159e6c1ce669ed405416472d7e9ce39a26873",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "iris_minimal",
@@ -45,7 +45,7 @@
       "bytes": 255308,
       "sha256": "b508815459769ab8e4920fd702baa725312be99b498e8d45b618333e02a95a40",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "prism_allout",
@@ -54,7 +54,7 @@
       "bytes": 420813,
       "sha256": "e36c726159ef1bdcf4f340b2882f60be6b302310239a0e8b5c85ed784c55e290",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "prism_bunny",
@@ -63,7 +63,7 @@
       "bytes": 297239,
       "sha256": "02ac587e36e12a933bd99405c4129a7488931a66ed38b1a72225294623acfa71",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "prism_classic",
@@ -72,7 +72,7 @@
       "bytes": 210984,
       "sha256": "c3b1d544314ccb9a592f0418285acab6951e8004e09baabcd60edc89dce2b730",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "prism_flames",
@@ -81,7 +81,7 @@
       "bytes": 398081,
       "sha256": "ab5e4007d754b338a60a5054c4fe041de81f6ebaec1937dcf7679022f76b35f4",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     },
     {
       "id": "prism_minimal",
@@ -90,7 +90,7 @@
       "bytes": 195684,
       "sha256": "bb67306b622ddcd0c4e26e6db3dfa9d8c0407d32e817e00515d0b7f206eb123c",
       "date": "2026-11-08",
-      "version": "1.0"
+      "version": "2026-11-10.1"
     }
   ]
 }
