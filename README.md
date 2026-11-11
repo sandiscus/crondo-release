@@ -15,7 +15,7 @@ Dein Auto zeigt seine Werte auf einem kleinen Display – Geschwindigkeit, Drehz
 ## Was dein Auto dir endlich zeigt
 
 - **Alles im Blick:** Geschwindigkeit, Drehzahl, Kühlwasser, Ansaugluft, Bordspannung, Momentanverbrauch, eingelegter Gang.
-- **Warmfahren ohne Rästelraten:** Das Display sagt dir, bis zu welcher Drehzahl du kalt fahren solltest, und meldet „BETRIEBSWARM".
+- **Warmlauf im Blick:** die Kühlwassertemperatur aus dem Kühlkreislauf, dazu der Hinweis, bis zu welcher Drehzahl du kalt fahren solltest, und ab 75 °C „BETRIEBSWARM".
 - **Zeiten, die von allein messen:** 0–100, 80–120, 100–200. Du musst nichts starten – nur auf abgesperrtem Gelände fahren.
 - **Fehlercodes im Klartext auf Deutsch:** lesen, verstehen, direkt am Gerät löschen. Nicht nur eine Nummer.
 - **Fahrt im Rückblick:** Höchstwerte und verbrauchter Kraftstoff seit dem Start.
@@ -25,12 +25,12 @@ Dein Auto zeigt seine Werte auf einem kleinen Display – Geschwindigkeit, Drehz
 ## Die Seiten
 
 <p>
-  <img src="bilder/iris-motor.png" width="200" alt="Motor, betriebswarm">
+  <img src="bilder/iris-motor.png" width="200" alt="Motor-Seite: Kühlwasser betriebswarm">
   <img src="bilder/iris-hud.png" width="200" alt="HUD: Geschwindigkeit, Drehzahl, Verbrauch, Gang">
   <img src="bilder/iris-drehzahl.png" width="200" alt="Drehzahl und Gas">
 </p>
 
-**Motor** zeigt, ob dein Auto warm ist. **HUD** ist die Fahrseite: Geschwindigkeit groß, Drehzahl oben, Verbrauch, Gang und Kühlwasser im Blick. **Drehzahl & Gas** zeigt Pedalstellung und die höchste Drehzahl dieser Fahrt.
+**Motor** zeigt die **Kühlwassertemperatur aus dem Kühlkreislauf** – nicht die Öltemperatur; die zeigt unser Display nicht. An der Kühlwassertemperatur erkennst du den Warmlauf: „BETRIEBSWARM" heißt ab 75 °C Kühlwasser (Standardwert, die Grenze lässt sich anpassen), davor steht der Hinweis, bis zu welcher Drehzahl du kalt fahren solltest. Dazu Ansauglufttemperatur und Bordspannung. **HUD** ist die Fahrseite: Geschwindigkeit groß, Drehzahl oben, Verbrauch, Gang und Kühlwasser im Blick. **Drehzahl & Gas** zeigt Pedalstellung und die höchste Drehzahl dieser Fahrt.
 
 <p>
   <img src="bilder/iris-zeiten.png" width="200" alt="Zeiten: 0–100, 80–120, 100–200">
@@ -75,7 +75,7 @@ Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das 
 
 <p>
   <img src="bilder/iris-gekoppelt.png" width="200" alt="Adapter gekoppelt">
-  <img src="bilder/iris-motor-kalt.png" width="200" alt="Motor kalt: Hinweis bis 4000 U/min warmfahren">
+  <img src="bilder/iris-motor-kalt.png" width="200" alt="Motor kalt: Kühlwasser, Hinweis bis 4000 U/min">
 </p>
 
 Dein Auto braucht eine OBD-II-Buchse (in der EU Pflicht bei Benzinern ab 2001, Diesel ab 2004). Was dein Auto liefert, entscheidet der Hersteller – fehlt ein Wert, zeigt das Display `--`. Ohne Fahrzeugprofil funktioniert alles, nur die Ganganzeige fehlt.
