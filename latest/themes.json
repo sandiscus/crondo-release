@@ -12,6 +12,24 @@
       "version": "2026-11-10.1"
     },
     {
+      "id": "iris_bloom",
+      "board": "iris",
+      "file": "themes/iris_bloom.theme",
+      "bytes": 2010178,
+      "sha256": "c0fc6027640169205bc09579d3eeb1f45f235e4b9e87e48ed0b1661cce0ef532",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
+      "id": "iris_blueprint",
+      "board": "iris",
+      "file": "themes/iris_blueprint.theme",
+      "bytes": 535527,
+      "sha256": "891f3d6d599ae5d910cd3c138b30869b1e79c563f6537d855a5ad38cb8096460",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
       "id": "iris_bunny",
       "board": "iris",
       "file": "themes/iris_bunny.theme",
@@ -24,10 +42,28 @@
       "id": "iris_classic",
       "board": "iris",
       "file": "themes/iris_classic.theme",
-      "bytes": 487653,
-      "sha256": "e1aee88434ffd2bd4abf4bc98885cd57461255c76731a2c72b575107f96f4c6a",
-      "date": "2026-11-08",
-      "version": "2026-11-10.1"
+      "bytes": 487801,
+      "sha256": "aeaab08f264aba1764e33c53d2b165556b621551c3c42fcb99977d615048db9a",
+      "date": "2026-11-13",
+      "version": "2026-11-13.2"
+    },
+    {
+      "id": "iris_flames",
+      "board": "iris",
+      "file": "themes/iris_flames.theme",
+      "bytes": 1130869,
+      "sha256": "52311cefd47c484f494afc9167f9f34d606cb746b59d5265f1912beec32e736d",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
+      "id": "iris_heritage",
+      "board": "iris",
+      "file": "themes/iris_heritage.theme",
+      "bytes": 504279,
+      "sha256": "aa6b8c35459497a99b07f46bcb64f6ea27cba302ff4f0dd8c3c099864a0b3538",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
     },
     {
       "id": "iris_minimal",
@@ -37,6 +73,24 @@
       "sha256": "b508815459769ab8e4920fd702baa725312be99b498e8d45b618333e02a95a40",
       "date": "2026-11-08",
       "version": "2026-11-10.1"
+    },
+    {
+      "id": "iris_neon",
+      "board": "iris",
+      "file": "themes/iris_neon.theme",
+      "bytes": 1909482,
+      "sha256": "088429fce5ef98facec2dacdec5a73fd7aa7e31726bc2cb189225dadc90e6777",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
+      "id": "iris_terrain",
+      "board": "iris",
+      "file": "themes/iris_terrain.theme",
+      "bytes": 993750,
+      "sha256": "824a5c32b2a94b7b1bb5643591e3a12c54dc5768b80f0d3ffdf00237789352c4",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
     },
     {
       "id": "iris_wings",
@@ -57,6 +111,24 @@
       "version": "2026-11-10.1"
     },
     {
+      "id": "prism_bloom",
+      "board": "prism",
+      "file": "themes/prism_bloom.theme",
+      "bytes": 1292476,
+      "sha256": "7925b93ddf0a269e28ac260cd405a0bef6b404033daa5176b98a4a3646a06d10",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
+      "id": "prism_blueprint",
+      "board": "prism",
+      "file": "themes/prism_blueprint.theme",
+      "bytes": 1115101,
+      "sha256": "988d07ada0932e3e8ab47e665836feb6f73027e953d13a67115efd5c8282e999",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
       "id": "prism_bunny",
       "board": "prism",
       "file": "themes/prism_bunny.theme",
@@ -75,6 +147,24 @@
       "version": "2026-11-10.1"
     },
     {
+      "id": "prism_flames",
+      "board": "prism",
+      "file": "themes/prism_flames.theme",
+      "bytes": 1291910,
+      "sha256": "b5a282f99f597007c53f1dc26ac7da5d88317faa1bac81f903b2ba55a778ac13",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
+      "id": "prism_heritage",
+      "board": "prism",
+      "file": "themes/prism_heritage.theme",
+      "bytes": 795334,
+      "sha256": "5cf193e4d277e48b11b9517b2d6916a96fdd115985d29e6216fdfbae4688ad82",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
       "id": "prism_minimal",
       "board": "prism",
       "file": "themes/prism_minimal.theme",
@@ -82,6 +172,24 @@
       "sha256": "bb67306b622ddcd0c4e26e6db3dfa9d8c0407d32e817e00515d0b7f206eb123c",
       "date": "2026-11-08",
       "version": "2026-11-10.1"
+    },
+    {
+      "id": "prism_neon",
+      "board": "prism",
+      "file": "themes/prism_neon.theme",
+      "bytes": 1247431,
+      "sha256": "9a54cc47c1e8e5370a5745f9c5e054c68e677730723b1276e07c3fcdb95e18a4",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
+    },
+    {
+      "id": "prism_terrain",
+      "board": "prism",
+      "file": "themes/prism_terrain.theme",
+      "bytes": 1264324,
+      "sha256": "0e78657f5cf32fbb9ed91de6b5f69200298737f1e671ba21671085481cf29037",
+      "date": "2026-11-13",
+      "version": "2026-11-13.1"
     },
     {
       "id": "prism_wings",
