@@ -48,6 +48,15 @@
       "version": "2026-11-13.2"
     },
     {
+      "id": "iris_flames",
+      "board": "iris",
+      "file": "themes/iris_flames.theme",
+      "bytes": 1130869,
+      "sha256": "52311cefd47c484f494afc9167f9f34d606cb746b59d5265f1912beec32e736d",
+      "date": "2026-11-15",
+      "version": "2026-11-15.2"
+    },
+    {
       "id": "iris_heritage",
       "board": "iris",
       "file": "themes/iris_heritage.theme",
@@ -136,6 +145,15 @@
       "sha256": "c3b1d544314ccb9a592f0418285acab6951e8004e09baabcd60edc89dce2b730",
       "date": "2026-11-08",
       "version": "2026-11-10.1"
+    },
+    {
+      "id": "prism_flames",
+      "board": "prism",
+      "file": "themes/prism_flames.theme",
+      "bytes": 1291910,
+      "sha256": "b5a282f99f597007c53f1dc26ac7da5d88317faa1bac81f903b2ba55a778ac13",
+      "date": "2026-11-15",
+      "version": "2026-11-15.2"
     },
     {
       "id": "prism_heritage",
