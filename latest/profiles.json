@@ -1159,13 +1159,6 @@
       "date": "2026-11-05"
     },
     {
-      "id": "profiles",
-      "file": "profiles/profiles.json",
-      "bytes": 65480,
-      "sha256": "d3444096a0150253d8b2630b19e40128a7bd0b1f41a5a63f31a20390e3665c42",
-      "date": "2026-11-16"
-    },
-    {
       "id": "renault/megane-rs/2009-2012/benzin-2.0-f4r-250",
       "file": "profiles/renault/megane-rs/2009-2012/benzin-2.0-f4r-250.json",
       "bytes": 788,
