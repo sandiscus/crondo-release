@@ -92,7 +92,7 @@ Dein Auto braucht eine **OBD-II-Buchse** – in der EU bei Benzinern ab Baujahr 
 | OBD-Adapter | Stand |
 |---|---|
 | **vLinker BM+** (iOS-Ausführung) | im Auto geprüft, verbindet sich zuverlässig |
-| zweiter Adapter | in Prüfung, noch keine Empfehlung |
+| **Vgate iCar Pro** | läuft dauerhaft im Testfahrzeug (Hyundai ix35), seit Wochen ohne Aussetzer |
 
 Andere Displays und klassische Bluetooth-Adapter werden nicht unterstützt. Bei Adaptern gilt: BLE und ELM327-kompatibel – dann klappt es in der Regel; Garantie gibt es erst für die oben genannten.
 
