@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="bilder/badge-stand.svg" alt="Stand: Alpha">
-  <img src="bilder/badge-displays.svg" alt="Iris und Prism">
-  <img src="bilder/badge-pc.svg" alt="Windows 10/11">
-  <img src="bilder/badge-sprache.svg" alt="Deutsch">
+  <img src="bilder/badges/badge-stand.svg" alt="Stand: Alpha">
+  <img src="bilder/badges/badge-displays.svg" alt="Iris und Prism">
+  <img src="bilder/badges/badge-pc.svg" alt="Windows 10/11">
+  <img src="bilder/badges/badge-sprache.svg" alt="Deutsch">
 </p>
 
 > **Alpha:** Hier liegen Testpakete für Tester, kein Verkauf. Funktionen ändern sich noch, Fehler sind möglich – bitte melden (siehe [Wenn etwas nicht läuft](#wenn-etwas-nicht-läuft)).
