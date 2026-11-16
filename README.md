@@ -125,24 +125,15 @@ Dein Auto braucht eine **OBD-II-Buchse** – in der EU bei Benzinern ab Baujahr 
 
 ## Getestet
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Displays</b>
-      <table>
-        <tr><td>Iris (Waveshare 1.46B)</td><td>im Einsatz, Touch geprüft</td></tr>
-        <tr><td>Prism (Waveshare 2.8, Touch V2)</td><td>zwei Geräte im Einsatz</td></tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <b>OBD-Adapter</b>
-      <table>
-        <tr><td>vLinker BM+</td><td>im Auto geprüft</td></tr>
-        <tr><td>Vgate iCar Pro</td><td>Dauerbetrieb im ix35</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+| Display | Stand |
+|---|---|
+| Iris (Waveshare 1.46B) | im Einsatz, Oberfläche und Touch geprüft |
+| Prism (Waveshare 2.8, Touch V2) | zwei Geräte im Einsatz, Oberfläche und Touch geprüft |
+
+| OBD-Adapter | Stand |
+|---|---|
+| **vLinker BM+** | im Auto geprüft, verbindet sich zuverlässig |
+| **Vgate iCar Pro** | Dauerbetrieb im Testfahrzeug, seit Wochen ohne Aussetzer |
 
 | Testfahrzeug | Was dort geprüft ist |
 |---|---|
@@ -157,10 +148,10 @@ Geprüft heißt: an genau diesen Autos getestet – keine Freigabe für alle Mod
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%"><h3>1</h3><b>Besorgen</b><br><sub>Display, Adapter, USB-C-Datenkabel, Halter – Liste oben.</sub></td>
-    <td align="center" valign="top" width="25%"><h3>2</h3><b>Studio installieren</b><br><sub>Windows 10/11. Die Setup-Datei liegt unter Releases; „unbekannter Herausgeber" ist in der Alpha normal.</sub></td>
-    <td align="center" valign="top" width="25%"><h3>3</h3><b>Firmware aufspielen</b><br><sub>Display ans Kabel, im Reiter „Firmware" das Paket für dein Gerät wählen, warten.</sub></td>
-    <td align="center" valign="top" width="25%"><h3>4</h3><b>Adapter einstecken</b><br><sub>Anschalten, das Display sucht und merkt ihn sich – ab dann verbindet es allein.</sub></td>
+    <td align="center" valign="top" width="25%"><b>1</b><br><b>Besorgen</b><br><sub>Display, Adapter, USB-C-Datenkabel, Halter – Liste oben.</sub></td>
+    <td align="center" valign="top" width="25%"><b>2</b><br><b>Studio installieren</b><br><sub>Windows 10/11. Die Setup-Datei liegt unter Releases; „unbekannter Herausgeber" ist in der Alpha normal.</sub></td>
+    <td align="center" valign="top" width="25%"><b>3</b><br><b>Firmware aufspielen</b><br><sub>Display ans Kabel, im Reiter „Firmware" das Paket für dein Gerät wählen, warten.</sub></td>
+    <td align="center" valign="top" width="25%"><b>4</b><br><b>Adapter einstecken</b><br><sub>Anschalten, das Display sucht und merkt ihn sich – ab dann verbindet es allein.</sub></td>
   </tr>
 </table>
 
