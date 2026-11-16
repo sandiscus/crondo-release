@@ -66,6 +66,36 @@ Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das 
 
 ---
 
+## Was du brauchst
+
+Die Hardware kaufst du selbst – so bekommst du Originalware vom Hersteller und wir halten keinen Lagerbestand.
+
+| Teil | Was genau | Hinweis |
+|---|---|---|
+| **Display (Iris)** | Waveshare **ESP32-S3-Touch-LCD-1.46B** – rund, 1,46″, 412 × 412, mit Touch | genau dieses Modell |
+| **Display (Prism)** | Waveshare **ESP32-S3-Touch-LCD-2.8** – eckig, 2,8″, mit Touch | **Touch-Variante V2** (es gibt zwei Varianten; nur V2 wird unterstützt) |
+| **OBD-Adapter** | Bluetooth-**LE**-Adapter (Bluetooth 4.0 oder neuer), ELM327-kompatibel | klassisches Bluetooth ohne „LE" funktioniert **nicht** |
+| **USB-C-Kabel** | Datenkabel, kein reines Ladekabel | für Einrichtung und Strom im Auto |
+| **Strom im Auto** | USB-Buchse des Radios oder 12-V-USB-Adapter | Radio-USB schaltet meist mit der Zündung ab |
+| **Windows-PC** | einmalig zum Einrichten | danach nur für Updates und neue Profile |
+| **Halter** | zur Montage im Auto | in Entwicklung; eine provisorische Befestigung reicht zum Testen |
+
+Dein Auto braucht eine **OBD-II-Buchse** – in der EU bei Benzinern ab Baujahr 2001, bei Dieseln ab 2004.
+
+## Getestet
+
+| Display | Stand |
+|---|---|
+| Iris (Waveshare 1.46B) | im Einsatz, Oberfläche und Touch geprüft |
+| Prism (Waveshare 2.8, Touch V2) | zwei Geräte im Einsatz, Oberfläche und Touch geprüft |
+
+| OBD-Adapter | Stand |
+|---|---|
+| **vLinker BM+** (iOS-Ausführung) | im Auto geprüft, verbindet sich zuverlässig |
+| zweiter Adapter | in Prüfung, noch keine Empfehlung |
+
+Andere Displays und klassische Bluetooth-Adapter werden nicht unterstützt. Bei Adaptern gilt: BLE und ELM327-kompatibel – dann klappt es in der Regel; Garantie gibt es erst für die oben genannten.
+
 ## Einrichten
 
 1. **Display und Adapter besorgen.** Für Iris ein Waveshare ESP32-S3-Touch-LCD-1.46B (rund, 1,46″, 412 × 412), für Prism ein ESP32-S3-Touch-LCD-2.8. Dazu einen OBD-Adapter mit **Bluetooth LE** (Bluetooth 4.0 oder neuer) – ältere Adapter mit klassischem Bluetooth funktionieren nicht. Dazu ein USB-C-Datenkabel und ein Halter. Board, Adapter und Halter kaufst du selbst; das hält den Preis niedrig.
