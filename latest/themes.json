@@ -96,10 +96,10 @@
       "id": "iris_wings",
       "board": "iris",
       "file": "themes/iris_wings.theme",
-      "bytes": 727291,
-      "sha256": "7e89eac1cc21a9e2a4dd3e93a3b159e6c1ce669ed405416472d7e9ce39a26873",
-      "date": "2026-11-13",
-      "version": "2026-11-13.1"
+      "bytes": 727290,
+      "sha256": "0f248a3f0ffc9e78635bffab56509231b3e129ee8ef2c1d5ea50742d24f89461",
+      "date": "2026-11-16",
+      "version": "2026-11-16.2"
     },
     {
       "id": "prism_allout",
@@ -195,10 +195,10 @@
       "id": "prism_wings",
       "board": "prism",
       "file": "themes/prism_wings.theme",
-      "bytes": 398081,
-      "sha256": "ab5e4007d754b338a60a5054c4fe041de81f6ebaec1937dcf7679022f76b35f4",
-      "date": "2026-11-13",
-      "version": "2026-11-13.1"
+      "bytes": 398080,
+      "sha256": "226fd20a6fbd744f946c4f100859ff5d9d96449d79375fea764d448eb995b314",
+      "date": "2026-11-16",
+      "version": "2026-11-16.2"
     }
   ]
 }
