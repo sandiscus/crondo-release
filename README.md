@@ -105,6 +105,12 @@ Neue Versionen erscheinen hier. Ältere bleiben liegen – du kannst also jederz
 
 | Version | Datum | Inhalt |
 |---|---|---|
+| 0.4.0-alpha.16 (Firmware) | 2026-11-16 | Nur die Versionsnummer, keine Funktionsänderung – Gleichstand mit Studio. |
+| 0.4.0-alpha.14 (Studio, Windows) | 2026-11-15 | Erstes Windows-Paket von CRONDO Studio: Installation ohne Adminrechte im eigenen Benutzerprofil, Lizenzhinweise im Startmenü. Das Setup ist **nicht signiert** – Windows meldet beim ersten Start „unbekannter Herausgeber“, das ist erwartet. |
+| 0.4.0-alpha.15 (Firmware) | 2026-11-15 | Theme-Betrieb: Das Display zeigt, welche Themes installiert sind und wie viel Platz frei bleibt. Abgebrochene Übertragungen werden aufgeräumt, Meldungen beim Aufspielen sind klarer. Gespeicherte Theme-Kennung „flames“ wird einmalig auf „wings“ umgestellt (Umbenennung). |
+| 0.4.0-alpha.14 (Firmware) | 2026-11-13 | Theme-Speicher konnte volllaufen: abgebrochene Übertragungen blieben als Reste liegen und blockierten danach jedes Aufspielen. Reste werden jetzt automatisch entfernt, freier Platz wird angezeigt, und Studio prüft die Größe vor dem Senden. |
+| 0.4.0-alpha.13 (Firmware) | 2026-11-12 | Theme-Übertragung wieder schnell: nach einer Umstellung war sie auf winzige Häppchen zurückgefallen (ein großes Theme brauchte rund drei Minuten). Jetzt größere Blöcke – Übertragung wieder im Sekundenbereich. |
+| 0.4.0-alpha.12 (Firmware) | 2026-11-11 | Bunny-Gesichter in der Studio-Vorschau folgen den Drehzahlbereichen: müde im unteren Bereich, neugierig in der Mitte, erschrocken kurz vor der roten Linie. |
 | 0.4.0-alpha.11 | 2026-11-10 | Theme-Pakete sind jetzt signiert: Das Display nimmt nur geprüfte Pakete an. Dazu eine Sperre, damit nicht zwei Programme gleichzeitig auf dasselbe Gerät zugreifen. |
 | 0.4.0-alpha.10 | 2026-11-10 | Alle fünf Themes kommen als Paket statt fest in der Firmware: die Firmware wird kleiner, Themes lassen sich einzeln nachinstallieren und austauschen. |
 
