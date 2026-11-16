@@ -52,9 +52,9 @@ Dein Auto zeigt seine Werte auf einem kleinen Display – Geschwindigkeit, Drehz
 
 ---
 
-## Fünf Themes – nicht nur eine andere Farbe
+## Elf Themes – nicht nur eine andere Farbe
 
-Jedes Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe. **Minimal** ist ab Werk eingestellt, dazu kommen **Classic**, **All-out**, **Bunny** und **Flames**. Die Akzentfarbe (acht Farben) stellst du unabhängig vom Theme ein, am Gerät oder in Studio.
+Jedes Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe. **Minimal** ist ab Werk eingestellt und liegt immer auf dem Gerät. Dazu kommen **Classic**, **All-out**, **Bunny**, **Wings**, **Flames**, **Neon Drive**, **Heritage**, **Blueprint**, **Terrain** und **Bloom** – elf Themes für beide Geräte. Die Akzentfarbe (acht Farben) stellst du unabhängig vom Theme ein, am Gerät oder in Studio. Die Themes und ihre Änderungen stehen in [`themes/README.md`](themes/README.md).
 
 <p>
   <img src="bilder/theme-minimal.png" width="190" alt="Theme Minimal">
@@ -69,7 +69,7 @@ Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das 
 ## Einrichten
 
 1. **Display und Adapter besorgen.** Für Iris ein Waveshare ESP32-S3-Touch-LCD-1.46B (rund, 1,46″, 412 × 412), für Prism ein ESP32-S3-Touch-LCD-2.8. Dazu einen OBD-Adapter mit **Bluetooth LE** (Bluetooth 4.0 oder neuer) – ältere Adapter mit klassischem Bluetooth funktionieren nicht. Dazu ein USB-C-Datenkabel und ein Halter. Board, Adapter und Halter kaufst du selbst; das hält den Preis niedrig.
-2. **CRONDO Studio installieren** (Windows 10/11, 64 Bit). Den Download gibt es auf crondo.app, sobald der Auftritt online ist – als Tester bekommst du den Link mit deinem Zugang. Windows meldet beim ersten Start, dass die App nicht signiert ist: Das ist bekannt, über **Weitere Informationen → Trotzdem ausführen** geht es weiter. Studio braucht kein Konto.
+2. **CRONDO Studio installieren** (Windows 10/11, 64 Bit). Die Setup-Datei liegt als Release hier im Repo – als Tester bekommst du den Link mit deinem Zugang. Windows meldet beim Start „unbekannter Herausgeber“ (die Datei ist nicht signiert, in der Alpha so vorgesehen); Einzelheiten in [`studio/README.md`](studio/README.md).
 3. **Firmware aufspielen.** Display mit dem Datenkabel an den PC, Studio starten, Reiter „Firmware", passendes Paket wählen, aufspielen. Das Gerät startet danach selbst neu. **Während des Aufspielens nicht trennen** – bricht es ab, lieber noch einmal aufspielen als abziehen.
 4. **Adapter einstecken, fertig.** Steck den Bluetooth-Adapter in die OBD-Buchse und schalte das Display ein: Es sucht den Adapter selbst und merkt ihn sich. Beim nächsten Start verbindet es sich von allein.
 
@@ -88,8 +88,10 @@ Dieses Repo enthält nur fertige Pakete, keinen Quelltext (ADR 0008).
 | Pfad | Inhalt |
 |---|---|
 | `firmware/<gerät>/<board>/<version>/` | Firmware-Paket (`.crondo`) je Gerät und Version, z. B. `firmware/iris/ws146b/0.4.0-alpha.11/0.4.0-alpha.11.crondo` |
-| `themes/` | Theme-Pakete (`.theme`) mit Signatur (`.theme.sig`) |
-| `latest/themes.json` + `.sig` | signierter Theme-Katalog, den Studio liest |
+| `themes/` | Theme-Pakete (`.theme`) mit Signatur (`.theme.sig`) und Versionsstempel, Changelog in `themes/README.md` |
+| `profiles/` | Fahrzeugprofile je Hersteller/Modell/Baujahr/Motor, Changelog in `profiles/README.md` |
+| `latest/themes.json`, `latest/profiles.json` (+ `.sig`) | signierte Kataloge, die Studio liest |
+| `studio/` | Hinweise zu CRONDO Studio; die Setup-Datei liegt als Release-Asset (rund 47 MB), Changelog in `studio/README.md` |
 
 Geräte und Boards: **Iris** = `ws146b`, **Prism** = `ws28`. Firmware-Pakete sind signiert und werden vor dem Aufspielen geprüft; ein Paket für ein anderes Board wird abgelehnt. Fahrzeugprofil, Einstellungen und Bestzeiten bleiben beim Firmware-Wechsel erhalten. Studio lädt aus diesem Repo nur den Theme-Katalog und die Update-Seite – ohne Konto, ohne Kennung.
 
@@ -99,20 +101,19 @@ Geräte und Boards: **Iris** = `ws146b`, **Prism** = `ws28`. Firmware-Pakete sin
 
 ## Updates und Rückweg
 
-Neue Versionen erscheinen hier. Ältere bleiben liegen – du kannst also jederzeit zurück: gleicher Weg wie beim Update, nur die ältere Version wählen. Das ist sinnvoll, wenn eine neue Version bei dir einen Fehler zeigt, den die vorige nicht hatte. Einstellungen, Profil, Bestzeiten und Logs bleiben dabei erhalten.
+Neue Versionen erscheinen hier, ältere bleiben liegen – du kannst also jederzeit zurück: gleicher Weg wie beim Update, nur die ältere Version wählen.
+- **Firmware:** ältere Version im Reiter „Firmware“ wählen. Profile und Einstellungen bleiben erhalten.
+- **Studio:** ältere Setup-Datei aus den Releases installieren; sie ersetzt die neuere.
+- **Themes:** jederzeit wechselbar, `minimal` bleibt immer auf dem Gerät.
 
 ## Changelog
 
-| Version | Datum | Inhalt |
-|---|---|---|
-| 0.4.0-alpha.16 (Firmware) | 2026-11-16 | Nur die Versionsnummer, keine Funktionsänderung – Gleichstand mit Studio. |
-| 0.4.0-alpha.14 (Studio, Windows) | 2026-11-15 | Erstes Windows-Paket von CRONDO Studio: Installation ohne Adminrechte im eigenen Benutzerprofil, Lizenzhinweise im Startmenü. Das Setup ist **nicht signiert** – Windows meldet beim ersten Start „unbekannter Herausgeber“, das ist erwartet. |
-| 0.4.0-alpha.15 (Firmware) | 2026-11-15 | Theme-Betrieb: Das Display zeigt, welche Themes installiert sind und wie viel Platz frei bleibt. Abgebrochene Übertragungen werden aufgeräumt, Meldungen beim Aufspielen sind klarer. Gespeicherte Theme-Kennung „flames“ wird einmalig auf „wings“ umgestellt (Umbenennung). |
-| 0.4.0-alpha.14 (Firmware) | 2026-11-13 | Theme-Speicher konnte volllaufen: abgebrochene Übertragungen blieben als Reste liegen und blockierten danach jedes Aufspielen. Reste werden jetzt automatisch entfernt, freier Platz wird angezeigt, und Studio prüft die Größe vor dem Senden. |
-| 0.4.0-alpha.13 (Firmware) | 2026-11-12 | Theme-Übertragung wieder schnell: nach einer Umstellung war sie auf winzige Häppchen zurückgefallen (ein großes Theme brauchte rund drei Minuten). Jetzt größere Blöcke – Übertragung wieder im Sekundenbereich. |
-| 0.4.0-alpha.12 (Firmware) | 2026-11-11 | Bunny-Gesichter in der Studio-Vorschau folgen den Drehzahlbereichen: müde im unteren Bereich, neugierig in der Mitte, erschrocken kurz vor der roten Linie. |
-| 0.4.0-alpha.11 | 2026-11-10 | Theme-Pakete sind jetzt signiert: Das Display nimmt nur geprüfte Pakete an. Dazu eine Sperre, damit nicht zwei Programme gleichzeitig auf dasselbe Gerät zugreifen. |
-| 0.4.0-alpha.10 | 2026-11-10 | Alle fünf Themes kommen als Paket statt fest in der Firmware: die Firmware wird kleiner, Themes lassen sich einzeln nachinstallieren und austauschen. |
+Jedes Paket hat seinen eigenen Changelog dort, wo es liegt:
+
+- **Firmware** (Iris, Prism): [`firmware/README.md`](firmware/README.md#changelog-firmware)
+- **Themes** (Pakete und Katalog): [`themes/README.md`](themes/README.md#changelog-katalog)
+- **CRONDO Studio** (Windows): [`studio/README.md`](studio/README.md#changelog-studio)
+- **Fahrzeugprofile**: [`profiles/README.md`](profiles/README.md#changelog)
 
 ## Wenn etwas nicht läuft
 
