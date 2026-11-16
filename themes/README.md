@@ -22,8 +22,6 @@ Studio → Reiter **Einstellungen** → Theme wählen → übernehmen. Das Displ
 
 **Minimal liegt immer auf dem Gerät** und lässt sich nicht entfernen: Es ist die Rückfallebene.
 
-**Ohne Lizenz nutzbar sind drei Themes:** Minimal, Classic und All-out. Die acht aufwendigen – Bunny, Wings, Flames, Neon Drive, Heritage, Blueprint, Terrain und Bloom – brauchen eine Premium-Lizenz.
-
 Die Akzentfarbe (acht Farben) stellst du unabhängig vom Theme ein, am Gerät oder in Studio.
 
 ## Neu dazu
