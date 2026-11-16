@@ -1,5 +1,7 @@
 # Themes
 
+[← Zurück zur Übersicht](../README.md)
+
 Jedes Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe. Elf gibt es, alle für Iris und Prism.
 
 | Theme | Charakter |

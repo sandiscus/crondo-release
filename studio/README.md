@@ -1,5 +1,7 @@
 # CRONDO Studio (PC)
 
+[← Zurück zur Übersicht](../README.md)
+
 CRONDO Studio richtet das Display ein: Firmware aufspielen, Fahrzeugprofil wählen, Theme setzen, Logs sichern. Den Download gibt es bei GitHub, der Link steht auf crondo.app.
 
 ## Versionen

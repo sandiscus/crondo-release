@@ -1,69 +1,107 @@
-# CRONDO – Downloads
+# CRONDO
 
 <p align="center">
-  <img src="bilder/iris-start.png" width="260" alt="CRONDO Iris – Startbildschirm">
+  <img src="bilder/iris-start.png" width="220" alt="CRONDO Iris – Startbildschirm">
 </p>
 
-**Klein, rund, Charakter: Dein Cockpit sieht endlich nach dir aus.**
+<p align="center">
+  <b>Klein, rund, Charakter: Dein Cockpit sieht endlich nach dir aus.</b><br>
+  <sub>Dein Auto zeigt seine Werte auf einem kleinen Touchdisplay – kabellos über einen Bluetooth-Adapter, eingerichtet einmal am PC.</sub>
+</p>
 
-CRONDO zeigt dir, was dein Auto über die Diagnosebuchse hergibt: Geschwindigkeit, Drehzahl, Temperaturen, Verbrauch, Beschleunigungszeiten und Fehlercodes im Klartext. Eingerichtet wird es einmal am PC, danach steckst du nur noch den Strom an.
+<p align="center">
+  <img src="bilder/badge-stand.svg" alt="Stand: Alpha">
+  <img src="bilder/badge-displays.svg" alt="Iris und Prism">
+  <img src="bilder/badge-pc.svg" alt="Windows 10/11">
+  <img src="bilder/badge-sprache.svg" alt="Deutsch">
+</p>
 
-> **Stand: Alpha.** Hier liegen Testpakete für Tester, kein Verkauf. Funktionen ändern sich noch, Fehler sind möglich – bitte melden (siehe „Wenn etwas nicht läuft").
+> **Alpha:** Hier liegen Testpakete für Tester, kein Verkauf. Funktionen ändern sich noch, Fehler sind möglich – bitte melden (siehe [Wenn etwas nicht läuft](#wenn-etwas-nicht-läuft)).
 
 ---
 
-## Was dein Auto dir endlich zeigt
+## Drei Dinge, die du sofort merkst
 
-- **Alles im Blick:** Geschwindigkeit, Drehzahl, Kühlwasser, Ansaugluft, Bordspannung, Momentanverbrauch und den eingelegten Gang.
-- **Warmlauf statt Rätselraten:** die Kühlwassertemperatur aus dem Kühlkreislauf, dazu der Hinweis, bis zu welcher Drehzahl du kalt fahren solltest – ab 75 °C steht dort „BETRIEBSWARM".
-- **Zeiten, die von allein messen:** 0–100, 80–120, 100–200. Du musst nichts starten, die Bestzeit bleibt gespeichert. Bitte nur auf abgesperrtem Gelände.
-- **Fehlercodes im Klartext auf Deutsch:** lesen, verstehen, am Gerät löschen. Nicht nur eine Nummer.
-- **Passt zu deinem Auto:** über 250 Fahrzeugprofile liegen bereit. Und ohne Profil läuft trotzdem alles – nur die Ganganzeige fehlt.
+- **Kein Kabel zum OBD-Port.** Die Werte kommen per Bluetooth-Adapter; Strom kommt über USB aus der Radio-Buchse.
+- **Fehlercodes auf Deutsch.** Kein Zahlenraten: Klartext, lesen und direkt am Gerät löschen.
+- **Elf Themes, acht Akzentfarben.** Das Display sieht aus, wie du willst – nicht wie ein Bastelprojekt.
 
 ---
 
-## Die Seiten
+## So sieht es aus
 
-<p>
-  <img src="bilder/iris-motor.png" width="200" alt="Motor-Seite: Kühlwasser betriebswarm">
-  <img src="bilder/iris-hud.png" width="200" alt="HUD: Geschwindigkeit, Drehzahl, Verbrauch, Gang">
-  <img src="bilder/iris-drehzahl.png" width="200" alt="Drehzahl und Gas">
-</p>
-
-**Motor** zeigt die Kühlwassertemperatur aus dem Kühlkreislauf – nicht die Öltemperatur, die liefert unser Display nicht. Dazu Ansaugluft und Bordspannung, und beim Kaltstart den Hinweis, bis zu welcher Drehzahl du warmfahren solltest.
-
-**HUD** ist die Fahrseite: Geschwindigkeit groß, Drehzahl oben, Verbrauch, Gang und Kühlwasser im Blick. **Drehzahl & Gas** zeigt die Pedalstellung und die höchste Drehzahl dieser Fahrt.
-
-<p>
-  <img src="bilder/iris-zeiten.png" width="200" alt="Zeiten: 0–100, 80–120, 100–200">
-  <img src="bilder/iris-fehlercodes.png" width="200" alt="Fehlercodes mit Klartext">
-  <img src="bilder/iris-einstellungen.png" width="200" alt="Einstellungen am Gerät: Akzentfarbe, Fahrzeug, Adapter">
-</p>
-
-**Zeiten** misst Beschleunigungsläufe automatisch und merkt sich deine Bestzeit. **Fehlercodes** kommen im Klartext, gelöscht wird direkt am Gerät. In den **Einstellungen** wechselst du Akzentfarbe, Fahrzeug und Adapter – ohne PC.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="bilder/iris-hud.png" width="170" alt="HUD"><br>
+      <b>HUD</b><br>
+      <sub>Tempo groß, Drehzahl oben, Verbrauch, Gang und Kühlwasser im Blick.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="bilder/iris-motor.png" width="170" alt="Motor"><br>
+      <b>Motor</b><br>
+      <sub>Kühlwasser aus dem Kühlkreislauf, Ansaugluft, Bordspannung – und ob du warmfahren solltest.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="bilder/iris-drehzahl.png" width="170" alt="Drehzahl und Gas"><br>
+      <b>Drehzahl &amp; Gas</b><br>
+      <sub>Pedalstellung in Prozent und die höchste Drehzahl dieser Fahrt.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="bilder/iris-zeiten.png" width="170" alt="Zeiten"><br>
+      <b>Zeiten</b><br>
+      <sub>0–100, 80–120, 100–200 – messen von allein, die Bestzeit bleibt gespeichert.</sub>
+    </td>
+    <td align="center">
+      <img src="bilder/iris-fehlercodes.png" width="170" alt="Fehlercodes"><br>
+      <b>Fehlercodes</b><br>
+      <sub>Gespeicherte Codes mit Klartext, löschen direkt am Gerät.</sub>
+    </td>
+    <td align="center">
+      <img src="bilder/iris-einstellungen.png" width="170" alt="Einstellungen"><br>
+      <b>Einstellungen</b><br>
+      <sub>Akzentfarbe, Fahrzeug und Adapter wechseln – ohne PC.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Zwei Größen, eine Software
 
-**Iris** ist rund (1,46″, 412 × 412), **Prism** ist eckig (2,8″). Beide zeigen dieselben Seiten, dasselbe Verhalten und dieselben Themes – nur in einer anderen Form. Jedes Gerät bekommt sein eigenes Firmware-Paket.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="bilder/iris-hud.png" width="180" alt="Iris, rund"><br>
+      <b>Iris</b><br>
+      <sub>rund · 1,46″ · 412 × 412</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="bilder/prism-hud.png" width="280" alt="Prism, eckig"><br>
+      <b>Prism</b><br>
+      <sub>eckig · 2,8″ · quer eingebaut</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="bilder/prism-hud.png" width="300" alt="Prism: eckiges Display, HUD">
-</p>
+Dieselben Seiten, dasselbe Verhalten, dieselben Themes – nur in einer anderen Form. Jedes Gerät bekommt sein eigenes Firmware-Paket.
 
 ---
 
 ## Elf Themes – nicht nur eine andere Farbe
 
-Ein Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe. **Minimal** ist ab Werk eingestellt und liegt immer auf dem Gerät – es ist die Rückfallebene. Dazu kommen **Classic**, **All-out**, **Bunny**, **Wings**, **Flames**, **Neon Drive**, **Heritage**, **Blueprint**, **Terrain** und **Bloom**, alle für beide Geräte. Was jedes Theme ausmacht, steht in [`themes/README.md`](themes/README.md).
+Ein Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe. **Minimal** ist ab Werk eingestellt und liegt immer auf dem Gerät – es ist die Rückfallebene. Dazu kommen **Classic**, **All-out**, **Bunny**, **Wings**, **Flames**, **Neon Drive**, **Heritage**, **Blueprint**, **Terrain** und **Bloom**. Was jedes Theme ausmacht, steht in [`themes/README.md`](themes/README.md).
 
-<p>
-  <img src="bilder/theme-minimal.png" width="170" alt="Theme Minimal">
-  <img src="bilder/theme-classic.png" width="170" alt="Theme Classic">
-  <img src="bilder/theme-allout.png" width="170" alt="Theme All-out">
-  <img src="bilder/theme-bunny.png" width="170" alt="Theme Bunny">
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="bilder/theme-minimal.png" width="150" alt="Minimal"><br><sub>Minimal</sub></td>
+    <td align="center" width="25%"><img src="bilder/theme-classic.png" width="150" alt="Classic"><br><sub>Classic</sub></td>
+    <td align="center" width="25%"><img src="bilder/theme-allout.png" width="150" alt="All-out"><br><sub>All-out</sub></td>
+    <td align="center" width="25%"><img src="bilder/theme-bunny.png" width="150" alt="Bunny"><br><sub>Bunny</sub></td>
+  </tr>
+</table>
 
 Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das Display prüft ein Theme, bevor es das annimmt. Die **Akzentfarbe** aus acht Farben stellst du unabhängig vom Theme ein, am Gerät oder in Studio.
 
@@ -87,36 +125,51 @@ Dein Auto braucht eine **OBD-II-Buchse** – in der EU bei Benzinern ab Baujahr 
 
 ## Getestet
 
-| Display | Stand |
-|---|---|
-| Iris (Waveshare 1.46B) | im Einsatz, Oberfläche und Touch geprüft |
-| Prism (Waveshare 2.8, Touch V2) | zwei Geräte im Einsatz, Oberfläche und Touch geprüft |
-
-| OBD-Adapter | Stand |
-|---|---|
-| **vLinker BM+** (iOS-Ausführung) | im Auto geprüft, verbindet sich zuverlässig |
-| **Vgate iCar Pro** | läuft dauerhaft im Testfahrzeug (Hyundai ix35), seit Wochen ohne Aussetzer |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Displays</b>
+      <table>
+        <tr><td>Iris (Waveshare 1.46B)</td><td>im Einsatz, Touch geprüft</td></tr>
+        <tr><td>Prism (Waveshare 2.8, Touch V2)</td><td>zwei Geräte im Einsatz</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <b>OBD-Adapter</b>
+      <table>
+        <tr><td>vLinker BM+</td><td>im Auto geprüft</td></tr>
+        <tr><td>Vgate iCar Pro</td><td>Dauerbetrieb im ix35</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 | Testfahrzeug | Was dort geprüft ist |
 |---|---|
 | **Honda Civic Type R (FN2, 2007–2011)** | Ersteinrichtung, alle Seiten, Fehlercodes und Zeiten im Fahrbetrieb; Profil bestätigt |
 | **Hyundai ix35 2.0 4WD (2010–2015)** | Dauerbetrieb über Wochen, Profil bestätigt |
 
-Geprüft heißt: an genau diesen Autos getestet – keine Freigabe für alle Modelle. Dein Auto braucht nur die OBD-II-Buchse; was es nicht liefert, zeigt das Display als `--`.
+Geprüft heißt: an genau diesen Autos getestet – keine Freigabe für alle Modelle. Dein Auto braucht nur die OBD-II-Buchse; was es nicht liefert, zeigt das Display als `--`. Andere Displays werden nicht unterstützt; bei Adaptern gilt Bluetooth LE und ELM327-kompatibel, sicher geprüft sind aber nur die beiden oben.
 
-Andere Displays werden nicht unterstützt. Bei Adaptern gilt: Bluetooth LE und ELM327-kompatibel – dann klappt es in der Regel. Sicher geprüft sind die beiden oben, für alles andere gibt es keine Zusage.
+---
 
-## Einrichten
+## In vier Schritten startklar
 
-1. **Display und Adapter besorgen** – Liste und Hinweise stehen unter „Was du brauchst". Board, Adapter und Halter kaufst du selbst; das hält den Preis niedrig.
-2. **CRONDO Studio installieren** (Windows 10/11, 64 Bit). Die Setup-Datei findest du unter **Releases**; als Tester bekommst du den Link mit deinem Zugang. Windows meldet beim Start „unbekannter Herausgeber" – die Datei ist in der Alpha bewusst nicht signiert; Einzelheiten in [`studio/README.md`](studio/README.md).
-3. **Firmware aufspielen.** Display mit dem Datenkabel an den PC, Studio starten, Reiter „Firmware", passendes Paket wählen, aufspielen. Das Gerät startet danach selbst neu. **Während des Aufspielens nicht trennen** – bricht es ab, lieber noch einmal aufspielen als abziehen.
-4. **Adapter einstecken, fertig.** Steck den Bluetooth-Adapter in die OBD-Buchse und schalte das Display ein: Es sucht den Adapter selbst und merkt ihn sich. Beim nächsten Start verbindet es sich von allein.
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%"><h3>1</h3><b>Besorgen</b><br><sub>Display, Adapter, USB-C-Datenkabel, Halter – Liste oben.</sub></td>
+    <td align="center" valign="top" width="25%"><h3>2</h3><b>Studio installieren</b><br><sub>Windows 10/11. Die Setup-Datei liegt unter Releases; „unbekannter Herausgeber" ist in der Alpha normal.</sub></td>
+    <td align="center" valign="top" width="25%"><h3>3</h3><b>Firmware aufspielen</b><br><sub>Display ans Kabel, im Reiter „Firmware" das Paket für dein Gerät wählen, warten.</sub></td>
+    <td align="center" valign="top" width="25%"><h3>4</h3><b>Adapter einstecken</b><br><sub>Anschalten, das Display sucht und merkt ihn sich – ab dann verbindet es allein.</sub></td>
+  </tr>
+</table>
 
 <p>
-  <img src="bilder/iris-gekoppelt.png" width="200" alt="Adapter gekoppelt">
-  <img src="bilder/iris-motor-kalt.png" width="200" alt="Motor kalt: Kühlwasser, Hinweis bis 4000 U/min">
+  <img src="bilder/iris-gekoppelt.png" width="180" alt="Adapter gekoppelt">
+  <img src="bilder/iris-motor-kalt.png" width="180" alt="Motor kalt: Kühlwasser, Hinweis bis 4000 U/min">
 </p>
+
+**Zwei Hinweise, die Ärger sparen:** Die Setup-Datei ist in der Alpha bewusst nicht signiert, deshalb fragt Windows beim ersten Start nach – Einzelheiten in [`studio/README.md`](studio/README.md). Und beim Aufspielen **das Kabel nicht trennen**: bricht es ab, lieber noch einmal aufspielen als abziehen.
 
 <details>
 <summary><b>Technische Angaben (für Neugierige)</b></summary>
@@ -138,25 +191,29 @@ Nimm immer das Paket, das zu deinem Gerät passt (Iris oder Prism) – ein Paket
 
 Neue Versionen erscheinen hier, ältere bleiben liegen. Du kannst also jederzeit zurück – gleicher Weg wie beim Update, nur die ältere Version wählen.
 
-- **Firmware:** ältere Version im Reiter „Firmware" wählen. Profile und Einstellungen bleiben erhalten.
-- **Studio:** ältere Setup-Datei aus den Releases installieren; sie ersetzt die neuere.
-- **Themes:** jederzeit wechselbar, `minimal` bleibt immer auf dem Gerät.
+| Was | Rückweg |
+|---|---|
+| **Firmware** | ältere Version im Reiter „Firmware" wählen – Profile und Einstellungen bleiben erhalten |
+| **Studio** | ältere Setup-Datei aus den Releases installieren; sie ersetzt die neuere |
+| **Themes** | jederzeit wechselbar, `minimal` bleibt immer auf dem Gerät |
 
 ## Noch in Arbeit
 
-- **Halter und Gehäuse** werden gedruckt; Dateien und Hinweise kommen mit dem Tester-Zugang.
-- **Zwei oder drei Displays an einem Auto** (ein Display liest, die anderen zeigen dieselben Werte) – in Arbeit, noch nicht verfügbar.
-- **Updates ohne Kabel** über WLAN – geplant.
-- **Handy-App** für Einstellungen und Updates – geplant, Zeitpunkt offen.
+| Was | Stand |
+|---|---|
+| **Halter und Gehäuse** | werden gedruckt; Dateien und Hinweise kommen mit dem Tester-Zugang |
+| **Zwei oder drei Displays an einem Auto** | in Arbeit – ein Display liest, die anderen zeigen dieselben Werte |
+| **Updates ohne Kabel** | geplant, über WLAN |
+| **Handy-App** für Einstellungen und Updates | geplant, Zeitpunkt offen |
 
 ## Changelog
 
-Jedes Paket hat seinen eigenen Changelog dort, wo es liegt:
-
-- **Firmware** (Iris, Prism): [`firmware/README.md`](firmware/README.md#changelog)
-- **Themes**: [`themes/README.md`](themes/README.md#neu-dazu)
-- **CRONDO Studio** (Windows): [`studio/README.md`](studio/README.md#changelog)
-- **Fahrzeugprofile**: [`profiles/README.md`](profiles/README.md#neu-dazu)
+| Paket | Wo |
+|---|---|
+| **Firmware** (Iris, Prism) | [`firmware/README.md`](firmware/README.md#changelog) |
+| **Themes** | [`themes/README.md`](themes/README.md#neu-dazu) |
+| **CRONDO Studio** | [`studio/README.md`](studio/README.md#changelog) |
+| **Fahrzeugprofile** | [`profiles/README.md`](profiles/README.md#neu-dazu) |
 
 ## Wenn etwas nicht läuft
 
