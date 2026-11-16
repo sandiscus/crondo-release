@@ -62,14 +62,14 @@ Jedes Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe.
   <img src="bilder/theme-allout.png" width="190" alt="Theme All-out">
 </p>
 
-Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das Display prüft dabei die Signatur des Pakets und nimmt nichts Ungeprüftes an.
+Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das Display nimmt nur Themes an, die zu ihm passen.
 
 ---
 
 ## Einrichten
 
 1. **Display und Adapter besorgen.** Für Iris ein Waveshare ESP32-S3-Touch-LCD-1.46B (rund, 1,46″, 412 × 412), für Prism ein ESP32-S3-Touch-LCD-2.8. Dazu einen OBD-Adapter mit **Bluetooth LE** (Bluetooth 4.0 oder neuer) – ältere Adapter mit klassischem Bluetooth funktionieren nicht. Dazu ein USB-C-Datenkabel und ein Halter. Board, Adapter und Halter kaufst du selbst; das hält den Preis niedrig.
-2. **CRONDO Studio installieren** (Windows 10/11, 64 Bit). Die Setup-Datei liegt als Release hier im Repo – als Tester bekommst du den Link mit deinem Zugang. Windows meldet beim Start „unbekannter Herausgeber“ (die Datei ist nicht signiert, in der Alpha so vorgesehen); Einzelheiten in [`studio/README.md`](studio/README.md).
+2. **CRONDO Studio installieren** (Windows 10/11, 64 Bit). Die Setup-Datei findest du unter **Releases**; als Tester bekommst du den Link mit deinem Zugang. Windows meldet beim Start „unbekannter Herausgeber“ (die Datei ist nicht signiert, in der Alpha so vorgesehen); Einzelheiten in [`studio/README.md`](studio/README.md).
 3. **Firmware aufspielen.** Display mit dem Datenkabel an den PC, Studio starten, Reiter „Firmware", passendes Paket wählen, aufspielen. Das Gerät startet danach selbst neu. **Während des Aufspielens nicht trennen** – bricht es ab, lieber noch einmal aufspielen als abziehen.
 4. **Adapter einstecken, fertig.** Steck den Bluetooth-Adapter in die OBD-Buchse und schalte das Display ein: Es sucht den Adapter selbst und merkt ihn sich. Beim nächsten Start verbindet es sich von allein.
 
@@ -83,17 +83,14 @@ Dein Auto braucht eine OBD-II-Buchse (in der EU Pflicht bei Benzinern ab 2001, D
 <details>
 <summary><b>Technische Angaben (für Neugierige)</b></summary>
 
-Dieses Repo enthält nur fertige Pakete, keinen Quelltext (ADR 0008).
-
-| Pfad | Inhalt |
+| Ordner | Inhalt |
 |---|---|
-| `firmware/<gerät>/<board>/<version>/` | Firmware-Paket (`.crondo`) je Gerät und Version, z. B. `firmware/iris/ws146b/0.4.0-alpha.11/0.4.0-alpha.11.crondo` |
-| `themes/` | Theme-Pakete (`.theme`) mit Signatur (`.theme.sig`) und Versionsstempel, Changelog in `themes/README.md` |
-| `profiles/` | Fahrzeugprofile je Hersteller/Modell/Baujahr/Motor, Changelog in `profiles/README.md` |
-| `latest/themes.json`, `latest/profiles.json` (+ `.sig`) | signierte Kataloge, die Studio liest |
-| `studio/` | Hinweise zu CRONDO Studio; die Setup-Datei liegt als Release-Asset (rund 47 MB), Changelog in `studio/README.md` |
+| `firmware/` | Firmware-Pakete je Gerät und Version, mit Changelog |
+| `themes/` | Theme-Pakete, mit Changelog |
+| `profiles/` | Fahrzeugprofile, mit Changelog |
+| `studio/` | Hinweise und Changelog zu CRONDO Studio; die Setup-Datei liegt beim Release |
 
-Geräte und Boards: **Iris** = `ws146b`, **Prism** = `ws28`. Firmware-Pakete sind signiert und werden vor dem Aufspielen geprüft; ein Paket für ein anderes Board wird abgelehnt. Fahrzeugprofil, Einstellungen und Bestzeiten bleiben beim Firmware-Wechsel erhalten. Studio lädt aus diesem Repo nur den Theme-Katalog und die Update-Seite – ohne Konto, ohne Kennung.
+Nimm immer das Paket, das zu deinem Gerät passt (Iris oder Prism) – ein Paket für das andere Gerät wird abgelehnt.
 
 </details>
 
@@ -110,10 +107,10 @@ Neue Versionen erscheinen hier, ältere bleiben liegen – du kannst also jederz
 
 Jedes Paket hat seinen eigenen Changelog dort, wo es liegt:
 
-- **Firmware** (Iris, Prism): [`firmware/README.md`](firmware/README.md#changelog-firmware)
-- **Themes** (Pakete und Katalog): [`themes/README.md`](themes/README.md#changelog-katalog)
-- **CRONDO Studio** (Windows): [`studio/README.md`](studio/README.md#changelog-studio)
-- **Fahrzeugprofile**: [`profiles/README.md`](profiles/README.md#changelog)
+- **Firmware** (Iris, Prism): [`firmware/README.md`](firmware/README.md#changelog)
+- **Themes**: [`themes/README.md`](themes/README.md#neu-dazu)
+- **CRONDO Studio** (Windows): [`studio/README.md`](studio/README.md#changelog)
+- **Fahrzeugprofile**: [`profiles/README.md`](profiles/README.md#neu-dazu)
 
 ## Wenn etwas nicht läuft
 
@@ -126,5 +123,5 @@ Kein Wert zu sehen? Meist liegt es am Adapter: Zündung an, Adapter fest eingest
 ## Rechtliches
 
 - **Lizenztexte:** im Studio-Paket als `LIZENZEN.txt` (enthält unter anderem die LGPL-Hinweise zu Qt).
-- **Datenschutz:** Die Firmware sendet nichts. Studio lädt nur Theme-Katalog und Update-Seite – ohne Konto, ohne Kennung, ohne Tracking, ohne Cookies. Auf deinem PC gespeichert werden nur Einstellungen, gesicherte Logs und Profile.
-- Verkauf, Preise, AGB und Widerruf sind nicht Teil dieses Repos; sie stehen auf crondo.app, sobald der Auftritt online ist.
+- **Datenschutz:** Die Firmware sendet nichts. Studio lädt nur die Theme-Liste und die Update-Seite – ohne Konto, ohne Kennung, ohne Tracking, ohne Cookies. Auf deinem PC gespeichert werden nur Einstellungen, gesicherte Logs und Profile.
+- Verkauf, Preise, AGB und Widerruf stehen auf crondo.app, sobald der Auftritt online ist.

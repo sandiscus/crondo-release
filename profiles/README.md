@@ -1,26 +1,21 @@
 # Fahrzeugprofile
 
-Profile sagen dem Display, was dein Auto liefert: Drehzahlgrenzen, Gänge, Reifengröße, Verbrauchskennfeld. Hier liegen sie als Katalog – je Hersteller, Modell, Baujahr und Motor eine Datei.
+Profile sagen dem Display, was dein Auto liefert: Drehzahlgrenzen, Gänge, Reifengröße und Verbrauch. Für die gängigen Modelle liegen sie fertig bei – **252 Profile** aus 14 Herstellern (Audi, BMW, Ford, Honda, Hyundai, Kia, Mazda, Mini, Opel, Renault, Seat, Škoda, Toyota, VW), Stand 2026-11-16.
 
-## Aufbau
+## Profil auswählen
 
-| Pfad | Bedeutung |
+Studio → Reiter **Fahrzeug**: Hersteller, Modell, Baujahr und Motor wählen. Passt dein Auto nicht in die Liste, hilft der Aufnahme-Modus am Display.
+
+## Passt nicht genau?
+
+Profile für dasselbe Modell können je Motor abweichen, weil der Hersteller unterschiedliche Steuergeräte verbaut. Was dein Auto tatsächlich liefert, entscheidet der Hersteller – im Zweifel das nächstliegende Profil nehmen und den Aufnahme-Modus dazuschalten.
+
+## Eigenes Profil aufnehmen
+
+Am Display gibt es dafür den **Aufnahme-Modus**: Er misst Gangzuordnung und Verbrauch im Fahrbetrieb und schreibt daraus ein Profil. Eigene Profile bleiben bei dir – auf dem Gerät und im Studio, sie werden nicht veröffentlicht.
+
+## Neu dazu
+
+| Datum | Was |
 |---|---|
-| `<hersteller>/<modell>/<baujahr>/<motor>.json` | ein Profil, z. B. `vw/golf/1998-2002/diesel-1.9-agr.json` |
-| `../latest/profiles.json` + `.sig` | signierter Katalog aller Profile mit Datei, Größe und Prüfsumme |
-
-**Stand: 2026-11-16, 252 Profile** über 14 Hersteller (Audi, BMW, Ford, Honda, Hyundai, Kia, Mazda, Mini, Opel, Renault, Seat, Škoda, Toyota, VW).
-
-## Was ein Profil enthält
-
-Name und Version, Status (bestätigt oder vorläufig), Drehzahlgrenzen (`rpm_max`, `rpm_red`, `cold_rpm`), Temperaturen, Gänge und Reifengröße. Was das Auto tatsächlich liefert, entscheidet der Hersteller – Profile für dasselbe Modell können je Motor abweichen.
-
-## Eigenes Profil
-
-Im Display gibt es dafür den **Aufnahme-Modus**: Er misst Gangzuordnung und Verbrauch im Fahrbetrieb und schreibt ein Profil. Eigene Profile bleiben lokal am Gerät bzw. in Studio; sie werden nicht in diesen Katalog hochgeladen.
-
-## Changelog
-
-| Stand | Einträge | Änderung |
-|---|---|---|
-| 2026-11-16 | 252 | Katalog neu erzeugt und signiert, Profile für die ersten 14 Hersteller. |
+| 2026-11-16 | Erster Profilkatalog: 252 Profile aus 14 Herstellern. |
