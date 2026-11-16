@@ -56,13 +56,15 @@ CRONDO zeigt dir, was dein Auto über die Diagnosebuchse hergibt: Geschwindigkei
 
 ## Elf Themes – nicht nur eine andere Farbe
 
-Ein Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe. **Minimal** ist ab Werk eingestellt und liegt immer auf dem Gerät – es ist die Rückfallebene. Dazu kommen **Classic**, **All-out**, **Bunny**, **Wings**, **Flames**, **Neon Drive**, **Heritage**, **Blueprint**, **Terrain** und **Bloom**, alle für beide Geräte. Was jedes Theme ausmacht, steht in [`themes/README.md`](themes/README.md).
+Ein Theme ändert das ganze Display: Schriften, Farben, Zeiger, Hintergründe.
+
+**Ohne Lizenz dabei sind drei:** **Minimal** (ab Werk eingestellt, liegt immer auf dem Gerät und ist die Rückfallebene), **Classic** und **All-out**. Die acht aufwendigen Themes – **Bunny**, **Wings**, **Flames**, **Neon Drive**, **Heritage**, **Blueprint**, **Terrain** und **Bloom** – gehören zu Premium. Was jedes Theme ausmacht, steht in [`themes/README.md`](themes/README.md).
 
 <p>
-  <img src="bilder/theme-minimal.png" width="170" alt="Theme Minimal">
-  <img src="bilder/theme-classic.png" width="170" alt="Theme Classic">
-  <img src="bilder/theme-allout.png" width="170" alt="Theme All-out">
-  <img src="bilder/theme-bunny.png" width="170" alt="Theme Bunny">
+  <img src="bilder/theme-minimal.png" width="170" alt="Theme Minimal (ohne Lizenz)">
+  <img src="bilder/theme-classic.png" width="170" alt="Theme Classic (ohne Lizenz)">
+  <img src="bilder/theme-allout.png" width="170" alt="Theme All-out (ohne Lizenz)">
+  <img src="bilder/theme-bunny.png" width="170" alt="Theme Bunny (Premium)">
 </p>
 
 Themes liegen hier als Paket und werden über Studio aufs Display gespielt. Das Display prüft ein Theme, bevor es das annimmt. Die **Akzentfarbe** aus acht Farben stellst du unabhängig vom Theme ein, am Gerät oder in Studio.
