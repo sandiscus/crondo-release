@@ -14,7 +14,7 @@ Profile für dasselbe Modell können je Motor abweichen, weil der Hersteller unt
 
 ## Eigenes Profil aufnehmen
 
-Am Display gibt es dafür den **Aufnahme-Modus**: Er misst Gangzuordnung und Verbrauch im Fahrbetrieb und schreibt daraus ein Profil. Eigene Profile bleiben bei dir – auf dem Gerät und im Studio, sie werden nicht veröffentlicht.
+In **CRONDO Studio** gibt es dafür die **Aufnahmefahrt**: Sie zeichnet im Fahrbetrieb Drehzahl und Geschwindigkeit auf, daraus liest Studio die Gangübersetzungen und die höchste Drehzahl aus. Eigene Profile bleiben bei dir – auf dem Gerät und im Studio, sie werden nicht veröffentlicht.
 
 ## Neu dazu
 
