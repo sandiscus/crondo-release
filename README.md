@@ -67,6 +67,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="bilder/iris-g-meter.png" width="170" alt="G-Meter"><br>
+      <b>G-Meter</b> <sub>(zuschaltbar)</sub><br>
+      <sub>Quer- und Längskräfte beim Fahren – gemessen vom Lagesensor im Display, nicht vom Auto.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="bilder/iris-fahrt.png" width="170" alt="Fahrt"><br>
+      <b>Fahrt</b><br>
+      <sub>Höchstwerte und verbrauchter Kraftstoff seit dem Start.</sub>
+    </td>
+  </tr>
+</table>
+
+Die Seite **G-Meter** ist nicht ab Werk eingeschaltet: Du schaltest sie in Studio dazu.
+
 ---
 
 ## Zwei Größen, eine Software
