@@ -1,1771 +1,1776 @@
 {
   "format": 1,
   "kind": "profiles",
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "profiles": [
     {
       "id": "audi/a3/1996-2001/diesel-1.9-agr",
-      "file": "profiles/audi/a3/1996-2001/diesel-1.9-agr.json",
+      "file": "audi/a3/1996-2001/diesel-1.9-agr.json",
       "bytes": 915,
       "sha256": "6eed7c89ef7b498caab4ea0b9e76eef19b4250475f6b41e39fa954b1eedc9fc7",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/1996-2003/benzin-1.8-agu-t",
-      "file": "profiles/audi/a3/1996-2003/benzin-1.8-agu-t.json",
+      "file": "audi/a3/1996-2003/benzin-1.8-agu-t.json",
       "bytes": 935,
       "sha256": "8f5181d53cab941a5c9eca6fd1cc4c93991d9d5262def780dd5b7530b5e83290",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/1999-2003/benzin-1.8-ajq-t",
-      "file": "profiles/audi/a3/1999-2003/benzin-1.8-ajq-t.json",
+      "file": "audi/a3/1999-2003/benzin-1.8-ajq-t.json",
       "bytes": 935,
       "sha256": "c5fcc7a5af08c516d63a6232cc08ca5949defe25548c524d84dbfadfd247b501",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2000-2003/diesel-1.9-asz",
-      "file": "profiles/audi/a3/2000-2003/diesel-1.9-asz.json",
+      "file": "audi/a3/2000-2003/diesel-1.9-asz.json",
       "bytes": 910,
       "sha256": "990c2581001584bda593b17ca54a85618e48aa349be54139878b5f119f7e9fb0",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2003-2008/benzin-2.0-axw-fsi",
-      "file": "profiles/audi/a3/2003-2008/benzin-2.0-axw-fsi.json",
+      "file": "audi/a3/2003-2008/benzin-2.0-axw-fsi.json",
       "bytes": 933,
       "sha256": "36b56d1ccba8d2a278c1ad3b9231a2caca451449c098dcbc3e7dcdb9bb5b73f6",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2003-2008/diesel-2.0-bkd",
-      "file": "profiles/audi/a3/2003-2008/diesel-2.0-bkd.json",
+      "file": "audi/a3/2003-2008/diesel-2.0-bkd.json",
       "bytes": 919,
       "sha256": "2ea80111281949019e20ecfe207e4a95a46d815ccc6513d1772a6df9713e1dfd",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2003-2009/diesel-1.9-bjb",
-      "file": "profiles/audi/a3/2003-2009/diesel-1.9-bjb.json",
+      "file": "audi/a3/2003-2009/diesel-1.9-bjb.json",
       "bytes": 934,
       "sha256": "44527ff9073c9db3591817a186569fd254ededbccf88cc1d6a0801322c8cca46",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2003-2010/benzin-1.6-bgu",
-      "file": "profiles/audi/a3/2003-2010/benzin-1.6-bgu.json",
+      "file": "audi/a3/2003-2010/benzin-1.6-bgu.json",
       "bytes": 912,
       "sha256": "e17529e3230fc2a829f9748e0193c3bee8e87e223d80632ed799128d64d988d7",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2004-2013/benzin-2.0-axx-tfsi",
-      "file": "profiles/audi/a3/2004-2013/benzin-2.0-axx-tfsi.json",
+      "file": "audi/a3/2004-2013/benzin-2.0-axx-tfsi.json",
       "bytes": 851,
       "sha256": "c7e3098be74223158d20b83d132e37ddb84a061f4b46828b17c31d59afec0bd3",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2007-2013/benzin-1.8-byt-tfsi",
-      "file": "profiles/audi/a3/2007-2013/benzin-1.8-byt-tfsi.json",
+      "file": "audi/a3/2007-2013/benzin-1.8-byt-tfsi.json",
       "bytes": 833,
       "sha256": "f17ab4a1d7ca0a14f4460e1819fb077b050cecc071710ec9fda3f10da3aad372",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2008-2013/diesel-2.0-cbab",
-      "file": "profiles/audi/a3/2008-2013/diesel-2.0-cbab.json",
+      "file": "audi/a3/2008-2013/diesel-2.0-cbab.json",
       "bytes": 827,
       "sha256": "b4412cf81b12e1a51de2295f220bba5a696c2360688a338564c33aef38093d54",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2008-2013/diesel-2.0-cbbb",
-      "file": "profiles/audi/a3/2008-2013/diesel-2.0-cbbb.json",
+      "file": "audi/a3/2008-2013/diesel-2.0-cbbb.json",
       "bytes": 817,
       "sha256": "f21731b7cdfe326ceae393ec6b690ffc08c7b420eb020fd9d4dabb3911f2e526",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2013-2016/benzin-1.8-cjsa-tfsi",
-      "file": "profiles/audi/a3/2013-2016/benzin-1.8-cjsa-tfsi.json",
+      "file": "audi/a3/2013-2016/benzin-1.8-cjsa-tfsi.json",
       "bytes": 809,
       "sha256": "972d3eea0f2d9e08fbe6472d41198b3f3de20d732316b79276a9eb47bf7fc380",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2013-2020/diesel-2.0-crbc",
-      "file": "profiles/audi/a3/2013-2020/diesel-2.0-crbc.json",
+      "file": "audi/a3/2013-2020/diesel-2.0-crbc.json",
       "bytes": 839,
       "sha256": "614d8026eb74b2c22b3c824c9d41b12210026672b77904ad8b1ae482cfb501e9",
       "date": "2026-11-01"
     },
     {
       "id": "audi/a3/2013-2020/diesel-2.0-cuna",
-      "file": "profiles/audi/a3/2013-2020/diesel-2.0-cuna.json",
+      "file": "audi/a3/2013-2020/diesel-2.0-cuna.json",
       "bytes": 819,
       "sha256": "6d3ac0454a19c8ed546c66f5f251938a456c145c26efc2192ee736b014439f3a",
       "date": "2026-11-01"
     },
     {
       "id": "audi/s3/1999-2001/benzin-1.8-apy-quattro",
-      "file": "profiles/audi/s3/1999-2001/benzin-1.8-apy-quattro.json",
+      "file": "audi/s3/1999-2001/benzin-1.8-apy-quattro.json",
       "bytes": 911,
       "sha256": "fb3e63d9836a5a9bb0b3fe4f2f9f56f31cab84c8702261cf41a28051cca75139",
       "date": "2026-11-01"
     },
     {
       "id": "audi/s3/2001-2003/benzin-1.8-bam-quattro",
-      "file": "profiles/audi/s3/2001-2003/benzin-1.8-bam-quattro.json",
+      "file": "audi/s3/2001-2003/benzin-1.8-bam-quattro.json",
       "bytes": 807,
       "sha256": "e3c47eb13e88c7cf7621131138a55880adde5a0a270d9c6705c94de0d7643fc8",
       "date": "2026-11-01"
     },
     {
       "id": "audi/s3/2006-2013/benzin-2.0-bhz-quattro",
-      "file": "profiles/audi/s3/2006-2013/benzin-2.0-bhz-quattro.json",
+      "file": "audi/s3/2006-2013/benzin-2.0-bhz-quattro.json",
       "bytes": 814,
       "sha256": "e840e9e6366ff607833bcf15a419b8dd81ba8a0ecbe4be83aa8127e1a24d2402",
       "date": "2026-11-01"
     },
     {
       "id": "audi/s3/2013-2016/benzin-2.0-cjxc-quattro",
-      "file": "profiles/audi/s3/2013-2016/benzin-2.0-cjxc-quattro.json",
+      "file": "audi/s3/2013-2016/benzin-2.0-cjxc-quattro.json",
       "bytes": 806,
       "sha256": "8d1c141a18508aac3804ad9cb832bd73ba927363cac1ad01c83cdffae8ebfcfb",
       "date": "2026-11-01"
     },
     {
       "id": "audi/s3/2016-2018/benzin-2.0-cjxg-quattro",
-      "file": "profiles/audi/s3/2016-2018/benzin-2.0-cjxg-quattro.json",
+      "file": "audi/s3/2016-2018/benzin-2.0-cjxg-quattro.json",
       "bytes": 816,
       "sha256": "d047d34f751fc2685c23a42248fcfaa62157e10e56b3b403d3f2debb20b78072",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2004-2007/benzin-2.0-n46b20-120i",
-      "file": "profiles/bmw/1er/2004-2007/benzin-2.0-n46b20-120i.json",
+      "file": "bmw/1er/2004-2007/benzin-2.0-n46b20-120i.json",
       "bytes": 1157,
       "sha256": "609995b4cf2773473d764d99233faab2801ead09bc4dc4289440b4a98c3ddb12",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2004-2007/diesel-2.0-m47d20-120d",
-      "file": "profiles/bmw/1er/2004-2007/diesel-2.0-m47d20-120d.json",
+      "file": "bmw/1er/2004-2007/diesel-2.0-m47d20-120d.json",
       "bytes": 869,
       "sha256": "927dc3c447fb1b8f83612be23c1a3cb22236a70d44cb95ce16d7040f74699714",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2004-2011/benzin-1.6-n45b16-116i",
-      "file": "profiles/bmw/1er/2004-2011/benzin-1.6-n45b16-116i.json",
+      "file": "bmw/1er/2004-2011/benzin-1.6-n45b16-116i.json",
       "bytes": 938,
       "sha256": "46f3c7ff7afe0320e270b03aedb04385472b083da9d441f79b65f223fadaefe6",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2005-2007/benzin-2.0-n46b20-118i",
-      "file": "profiles/bmw/1er/2005-2007/benzin-2.0-n46b20-118i.json",
+      "file": "bmw/1er/2005-2007/benzin-2.0-n46b20-118i.json",
       "bytes": 938,
       "sha256": "59a7cf3ba89801ed366ac97abe69fb2c189efb0cc838805ada79f1fb85c4df86",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2005-2007/benzin-3.0-n52b30-130i",
-      "file": "profiles/bmw/1er/2005-2007/benzin-3.0-n52b30-130i.json",
+      "file": "bmw/1er/2005-2007/benzin-3.0-n52b30-130i.json",
       "bytes": 936,
       "sha256": "d0fbc35f132c2b2332325ffb23de628eba785cbcc5154b958e535f504a3b1aca",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2007-2011/benzin-1.6-n43b16-116i",
-      "file": "profiles/bmw/1er/2007-2011/benzin-1.6-n43b16-116i.json",
+      "file": "bmw/1er/2007-2011/benzin-1.6-n43b16-116i.json",
       "bytes": 938,
       "sha256": "029c73a30701affec785ba548c9df9350ce6fa72cc4c01401078165164dc331f",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2007-2011/benzin-2.0-n43b20-118i",
-      "file": "profiles/bmw/1er/2007-2011/benzin-2.0-n43b20-118i.json",
+      "file": "bmw/1er/2007-2011/benzin-2.0-n43b20-118i.json",
       "bytes": 939,
       "sha256": "754ebc682b488e5f1fa4eee3bc9f6319ac64870d52802413a7d748710dd22756",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2007-2011/benzin-2.0-n43b20-120i",
-      "file": "profiles/bmw/1er/2007-2011/benzin-2.0-n43b20-120i.json",
+      "file": "bmw/1er/2007-2011/benzin-2.0-n43b20-120i.json",
       "bytes": 939,
       "sha256": "8da6281942bbb47c41dc3e70ebaaf7a5d4b8ed72599b8c62458fd4224dc0dbcc",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2007-2011/benzin-3.0-n52b30-258-130i",
-      "file": "profiles/bmw/1er/2007-2011/benzin-3.0-n52b30-258-130i.json",
+      "file": "bmw/1er/2007-2011/benzin-3.0-n52b30-258-130i.json",
       "bytes": 936,
       "sha256": "d170fc13e14f19ce8b9dc8e9bc0c6408efe092bfa9839a666f617481610d3bd8",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2007-2011/diesel-2.0-n47d20-120d",
-      "file": "profiles/bmw/1er/2007-2011/diesel-2.0-n47d20-120d.json",
+      "file": "bmw/1er/2007-2011/diesel-2.0-n47d20-120d.json",
       "bytes": 869,
       "sha256": "301be10295a706d2a0b29156890c739b26f8de0cc2efcc03b7646c39b97b1e4b",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2007-2011/diesel-2.0-n47d20-123d",
-      "file": "profiles/bmw/1er/2007-2011/diesel-2.0-n47d20-123d.json",
+      "file": "bmw/1er/2007-2011/diesel-2.0-n47d20-123d.json",
       "bytes": 869,
       "sha256": "6aad447a65e048557f5e0ecb96a17d557aa5ef10918d4d1eceff022572a57477",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2011-2015/diesel-2.0-n47d20-120d",
-      "file": "profiles/bmw/1er/2011-2015/diesel-2.0-n47d20-120d.json",
+      "file": "bmw/1er/2011-2015/diesel-2.0-n47d20-120d.json",
       "bytes": 896,
       "sha256": "7571b0bbe75db3b36079bda41de2306846cfc2eea61baed06ef0a29fab282da2",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2012-2015/benzin-1.6-n13b16-116i",
-      "file": "profiles/bmw/1er/2012-2015/benzin-1.6-n13b16-116i.json",
+      "file": "bmw/1er/2012-2015/benzin-1.6-n13b16-116i.json",
       "bytes": 859,
       "sha256": "a6878113d4ab89ecf98a9fe9371ec8735fa8df877115418f1b1810537784443e",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2012-2015/benzin-1.6-n13b16-118i",
-      "file": "profiles/bmw/1er/2012-2015/benzin-1.6-n13b16-118i.json",
+      "file": "bmw/1er/2012-2015/benzin-1.6-n13b16-118i.json",
       "bytes": 859,
       "sha256": "08112f7a9c3073f05b2c9410020496d401f0a21d1b9a5e75d85cf9275aa53419",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2012-2015/benzin-2.0-n20b20-125i",
-      "file": "profiles/bmw/1er/2012-2015/benzin-2.0-n20b20-125i.json",
+      "file": "bmw/1er/2012-2015/benzin-2.0-n20b20-125i.json",
       "bytes": 874,
       "sha256": "9d3eb78e98340d4f55b831cd21a9447e6610334abca1e87415b7bb2b579cf556",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2012-2016/benzin-3.0-n55b30-m135i",
-      "file": "profiles/bmw/1er/2012-2016/benzin-3.0-n55b30-m135i.json",
+      "file": "bmw/1er/2012-2016/benzin-3.0-n55b30-m135i.json",
       "bytes": 857,
       "sha256": "db68ee587b1c57046420e66a2678cca2ab8d2d0c978a75a6028ee6e0d6068d68",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2015-2019/benzin-1.5-b38b15-118i",
-      "file": "profiles/bmw/1er/2015-2019/benzin-1.5-b38b15-118i.json",
+      "file": "bmw/1er/2015-2019/benzin-1.5-b38b15-118i.json",
       "bytes": 859,
       "sha256": "b82a754d3352464cac166d1f62a9f0915e60e1f0faaa6fea366b868288808fc8",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2015-2019/diesel-2.0-b47d20-120d",
-      "file": "profiles/bmw/1er/2015-2019/diesel-2.0-b47d20-120d.json",
+      "file": "bmw/1er/2015-2019/diesel-2.0-b47d20-120d.json",
       "bytes": 874,
       "sha256": "e83f293f8258df5c6b1493e2d261236d9c9d766269860451f3712beff5db4602",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/1er/2016-2019/benzin-2.0-b48b20-120i",
-      "file": "profiles/bmw/1er/2016-2019/benzin-2.0-b48b20-120i.json",
+      "file": "bmw/1er/2016-2019/benzin-2.0-b48b20-120i.json",
       "bytes": 907,
       "sha256": "693a9c34bb4e3bd8223a040aaa9bd2a9bd831bc6ddd5e32ba127191f06c2e018",
       "date": "2026-10-21"
     },
     {
       "id": "bmw/1er/2016-2019/benzin-3.0-b58b30-m140i",
-      "file": "profiles/bmw/1er/2016-2019/benzin-3.0-b58b30-m140i.json",
+      "file": "bmw/1er/2016-2019/benzin-3.0-b58b30-m140i.json",
       "bytes": 942,
       "sha256": "d106a7a022412059718ae779a0e01e303dc76499a5ed30163161c29454011b23",
       "date": "2026-10-21"
     },
     {
       "id": "bmw/3er/1998-2000/benzin-2.0-m52tub20-320i",
-      "file": "profiles/bmw/3er/1998-2000/benzin-2.0-m52tub20-320i.json",
+      "file": "bmw/3er/1998-2000/benzin-2.0-m52tub20-320i.json",
       "bytes": 1288,
       "sha256": "c3839a0ffcddad56232a163d16d807a2a06c8fc739368babf1db5a7ee4c11fa3",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/1998-2001/benzin-1.9-m43b19-318i",
-      "file": "profiles/bmw/3er/1998-2001/benzin-1.9-m43b19-318i.json",
+      "file": "bmw/3er/1998-2001/benzin-1.9-m43b19-318i.json",
       "bytes": 1046,
       "sha256": "a19229457587fdc91f812adbdf078506a46613606a020f91ae3f8cfe528742e5",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/1998-2001/diesel-2.0-m47d20-320d",
-      "file": "profiles/bmw/3er/1998-2001/diesel-2.0-m47d20-320d.json",
+      "file": "bmw/3er/1998-2001/diesel-2.0-m47d20-320d.json",
       "bytes": 1220,
       "sha256": "851a17d151db33206707be7f9198b80d74f4fa8f92f0a9d0f84aa055f01d674a",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/1999-2001/benzin-1.9-m43b19-316i",
-      "file": "profiles/bmw/3er/1999-2001/benzin-1.9-m43b19-316i.json",
+      "file": "bmw/3er/1999-2001/benzin-1.9-m43b19-316i.json",
       "bytes": 1046,
       "sha256": "2cc9b782b0bd404ccb95fdacd270e15eeac8d7d75d29704855a88612e0070f07",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2000-2006/benzin-2.2-m54b22-320i",
-      "file": "profiles/bmw/3er/2000-2006/benzin-2.2-m54b22-320i.json",
+      "file": "bmw/3er/2000-2006/benzin-2.2-m54b22-320i.json",
       "bytes": 1083,
       "sha256": "d416c8cb8bfc6eed536d710e8a392f8a1873831c3c1c63a15735460fb8b0ea16",
       "date": "2026-10-24"
     },
     {
       "id": "bmw/3er/2001-2004/benzin-1.6-n40b16-316i",
-      "file": "profiles/bmw/3er/2001-2004/benzin-1.6-n40b16-316i.json",
+      "file": "bmw/3er/2001-2004/benzin-1.6-n40b16-316i.json",
       "bytes": 948,
       "sha256": "f1ae7ac3810157ef514a4ec2a40f4056ed58e8c4c1dd4547afcbcbbe461fd3af",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2001-2004/benzin-1.8-n42b18-316i",
-      "file": "profiles/bmw/3er/2001-2004/benzin-1.8-n42b18-316i.json",
+      "file": "bmw/3er/2001-2004/benzin-1.8-n42b18-316i.json",
       "bytes": 948,
       "sha256": "41591abbda9668e0fc107d3087d281f2bf889fd7068cda0e9bb23de4caae95bb",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2001-2005/benzin-2.0-n42b20-318i",
-      "file": "profiles/bmw/3er/2001-2005/benzin-2.0-n42b20-318i.json",
+      "file": "bmw/3er/2001-2005/benzin-2.0-n42b20-318i.json",
       "bytes": 949,
       "sha256": "5ba058e17c2363d37300980ae9d19ce3732327aec571950b2816a2ca3a30427e",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2001-2006/benzin-2.5-m54b25-325i",
-      "file": "profiles/bmw/3er/2001-2006/benzin-2.5-m54b25-325i.json",
+      "file": "bmw/3er/2001-2006/benzin-2.5-m54b25-325i.json",
       "bytes": 987,
       "sha256": "50c323c258594599f170d8ac1f45213c3b77866315ef21d8d8b3f52b1e761b6d",
       "date": "2026-10-24"
     },
     {
       "id": "bmw/3er/2001-2006/diesel-2.0-m47tud20-320d",
-      "file": "profiles/bmw/3er/2001-2006/diesel-2.0-m47tud20-320d.json",
+      "file": "bmw/3er/2001-2006/diesel-2.0-m47tud20-320d.json",
       "bytes": 979,
       "sha256": "22019d4a3137653b96b1ca658bb8e12cdc38d5e9ab049d8454bf075bfc389462",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2003-2007/benzin-2.0-n46b20-318i",
-      "file": "profiles/bmw/3er/2003-2007/benzin-2.0-n46b20-318i.json",
+      "file": "bmw/3er/2003-2007/benzin-2.0-n46b20-318i.json",
       "bytes": 949,
       "sha256": "000402e2ac50a293a89d4b0443b5cb988e3603878ecbc24c033fd3c67301ac92",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2004-2005/benzin-1.8-n46b18-316i",
-      "file": "profiles/bmw/3er/2004-2005/benzin-1.8-n46b18-316i.json",
+      "file": "bmw/3er/2004-2005/benzin-1.8-n46b18-316i.json",
       "bytes": 948,
       "sha256": "f6ce3806a8991c5aa38b2c8d41df27096e284d7c893e7448324ec08ea60618b8",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2005-2007/benzin-2.0-n46b20-318i",
-      "file": "profiles/bmw/3er/2005-2007/benzin-2.0-n46b20-318i.json",
+      "file": "bmw/3er/2005-2007/benzin-2.0-n46b20-318i.json",
       "bytes": 957,
       "sha256": "2f18080d0f98ae14358e8872488ddf337674ea3e00eb5f7ea9555e95d59064eb",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2005-2007/benzin-2.0-n46b20-320i",
-      "file": "profiles/bmw/3er/2005-2007/benzin-2.0-n46b20-320i.json",
+      "file": "bmw/3er/2005-2007/benzin-2.0-n46b20-320i.json",
       "bytes": 1003,
       "sha256": "31828ef6f7fa016ed32e01fcee75b4a84adcba5373a5f0e3e875fe944e2f3eb2",
       "date": "2026-10-24"
     },
     {
       "id": "bmw/3er/2005-2007/benzin-2.5-n52b25-325i",
-      "file": "profiles/bmw/3er/2005-2007/benzin-2.5-n52b25-325i.json",
+      "file": "bmw/3er/2005-2007/benzin-2.5-n52b25-325i.json",
       "bytes": 1003,
       "sha256": "f51ed3fc006c62dc236aec7ebf51cc227b202a6053ebaa487e9c5aa33642e79f",
       "date": "2026-10-24"
     },
     {
       "id": "bmw/3er/2005-2007/diesel-2.0-m47d20tu2-320d",
-      "file": "profiles/bmw/3er/2005-2007/diesel-2.0-m47d20tu2-320d.json",
+      "file": "bmw/3er/2005-2007/diesel-2.0-m47d20tu2-320d.json",
       "bytes": 938,
       "sha256": "ac635b1dadea325f9aae750619eb803f3c35556291ca02853b27c51127b71564",
       "date": "2026-10-21"
     },
     {
       "id": "bmw/3er/2006-2011/benzin-1.6-n45b16-316i",
-      "file": "profiles/bmw/3er/2006-2011/benzin-1.6-n45b16-316i.json",
+      "file": "bmw/3er/2006-2011/benzin-1.6-n45b16-316i.json",
       "bytes": 957,
       "sha256": "95835058c0e11952ce1ada3cfc730b6f2cdf90bb8d5ca91a128bd2dc78fbc6dd",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2007-2010/diesel-2.0-n47d20-320d",
-      "file": "profiles/bmw/3er/2007-2010/diesel-2.0-n47d20-320d.json",
+      "file": "bmw/3er/2007-2010/diesel-2.0-n47d20-320d.json",
       "bytes": 888,
       "sha256": "59e481ab53efd6fa9cef376c06da3cc693e2dfd3f03cadae8161d1efe7fd5b14",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2007-2011/benzin-1.6-n43b16-316i",
-      "file": "profiles/bmw/3er/2007-2011/benzin-1.6-n43b16-316i.json",
+      "file": "bmw/3er/2007-2011/benzin-1.6-n43b16-316i.json",
       "bytes": 957,
       "sha256": "8fd48082eecc16d75f285e9b77152f1b2b663a25420422a8ebb08db34d58d68a",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2007-2012/benzin-2.0-n43b20-318i",
-      "file": "profiles/bmw/3er/2007-2012/benzin-2.0-n43b20-318i.json",
+      "file": "bmw/3er/2007-2012/benzin-2.0-n43b20-318i.json",
       "bytes": 958,
       "sha256": "fbbe5fb5a5e780510eba83425ddfc57fc151294c8fdf89f870a57a2ebdb9539c",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2007-2012/benzin-2.0-n43b20-320i",
-      "file": "profiles/bmw/3er/2007-2012/benzin-2.0-n43b20-320i.json",
+      "file": "bmw/3er/2007-2012/benzin-2.0-n43b20-320i.json",
       "bytes": 958,
       "sha256": "ab26c2e2b77c2c0f2b040ef2f00b998c6580f5488dc26d28799a6209c12f9dfc",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2007-2012/benzin-3.0-n53b30-325i",
-      "file": "profiles/bmw/3er/2007-2012/benzin-3.0-n53b30-325i.json",
+      "file": "bmw/3er/2007-2012/benzin-3.0-n53b30-325i.json",
       "bytes": 958,
       "sha256": "c6479868e9e42b1c142f246f4e9969196a97ad338a5671252325d8c4d265bd31",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2010-2012/diesel-2.0-n47d20-184-320d",
-      "file": "profiles/bmw/3er/2010-2012/diesel-2.0-n47d20-184-320d.json",
+      "file": "bmw/3er/2010-2012/diesel-2.0-n47d20-184-320d.json",
       "bytes": 888,
       "sha256": "276c2080e227a525032faf5ffed415bfb000f4123fe4ec9a3986b6b3902d929c",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2012-2015/benzin-1.6-n13b16-316i",
-      "file": "profiles/bmw/3er/2012-2015/benzin-1.6-n13b16-316i.json",
+      "file": "bmw/3er/2012-2015/benzin-1.6-n13b16-316i.json",
       "bytes": 883,
       "sha256": "917afe836848bd3baf7d0539ccadf6506342f58581eb7b282f62d559a014ec04",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2012-2015/benzin-2.0-n20b20-320i",
-      "file": "profiles/bmw/3er/2012-2015/benzin-2.0-n20b20-320i.json",
+      "file": "bmw/3er/2012-2015/benzin-2.0-n20b20-320i.json",
       "bytes": 912,
       "sha256": "01a6cb8b4477f8f9098ca7979edab705d0e046c8ab3a8287bdabfe1af9b937d9",
       "date": "2026-10-21"
     },
     {
       "id": "bmw/3er/2012-2015/diesel-2.0-n47d20-320d",
-      "file": "profiles/bmw/3er/2012-2015/diesel-2.0-n47d20-320d.json",
+      "file": "bmw/3er/2012-2015/diesel-2.0-n47d20-320d.json",
       "bytes": 898,
       "sha256": "207c0cb4356dd7022dddf66970b85020fe200894d36953c8d3f5c2de30608d8d",
       "date": "2026-11-01"
     },
     {
       "id": "bmw/3er/2015-2019/benzin-1.5-b38b15-318i",
-      "file": "profiles/bmw/3er/2015-2019/benzin-1.5-b38b15-318i.json",
+      "file": "bmw/3er/2015-2019/benzin-1.5-b38b15-318i.json",
       "bytes": 897,
       "sha256": "8ec58607f8c3f36e8969000d13d376ea065da521f8157abb500b242bc34050ad",
       "date": "2026-10-21"
     },
     {
       "id": "bmw/3er/2015-2019/benzin-2.0-b48b20-320i",
-      "file": "profiles/bmw/3er/2015-2019/benzin-2.0-b48b20-320i.json",
+      "file": "bmw/3er/2015-2019/benzin-2.0-b48b20-320i.json",
       "bytes": 897,
       "sha256": "e3d00af681b2a874dd7944db55a505f85acbeab60018c7ae61eacb9afeacab29",
       "date": "2026-10-21"
     },
     {
       "id": "bmw/3er/2015-2019/diesel-2.0-b47d20-320d",
-      "file": "profiles/bmw/3er/2015-2019/diesel-2.0-b47d20-320d.json",
+      "file": "bmw/3er/2015-2019/diesel-2.0-b47d20-320d.json",
       "bytes": 913,
       "sha256": "eeacd3619fc660891f2532e71f672ef9edd47a9a68aa37e40d36cf9819dd62ba",
       "date": "2026-10-21"
     },
     {
       "id": "ford/fiesta-st/2013-2017/benzin-1.6-ecoboost",
-      "file": "profiles/ford/fiesta-st/2013-2017/benzin-1.6-ecoboost.json",
+      "file": "ford/fiesta-st/2013-2017/benzin-1.6-ecoboost.json",
       "bytes": 892,
       "sha256": "c1bfff0c447acc41e2a94b37782c6c236f70bb65eadf66ee200d42cd474774ae",
       "date": "2026-11-01"
     },
     {
       "id": "ford/fiesta-st/2016-2017/benzin-1.6-ecoboost-st200",
-      "file": "profiles/ford/fiesta-st/2016-2017/benzin-1.6-ecoboost-st200.json",
+      "file": "ford/fiesta-st/2016-2017/benzin-1.6-ecoboost-st200.json",
       "bytes": 871,
       "sha256": "f7b745512914bd1373113f16011d40bacc84f070ed113f1010b54c5ebe4c19a2",
       "date": "2026-11-01"
     },
     {
       "id": "ford/fiesta-st/2018-2022/benzin-1.5-yzja",
-      "file": "profiles/ford/fiesta-st/2018-2022/benzin-1.5-yzja.json",
+      "file": "ford/fiesta-st/2018-2022/benzin-1.5-yzja.json",
       "bytes": 778,
       "sha256": "f5b6b124c8223b84f3b05e16e1e426567fc449ea2d1cc00858ce7c30cab32dce",
       "date": "2026-10-21"
     },
     {
       "id": "ford/focus-rs/2009-2010/benzin-2.5-jzda",
-      "file": "profiles/ford/focus-rs/2009-2010/benzin-2.5-jzda.json",
+      "file": "ford/focus-rs/2009-2010/benzin-2.5-jzda.json",
       "bytes": 776,
       "sha256": "091b3d8e1195d345690157d2b1816245a910f4d1d00e905eabde40a88d15ee77",
       "date": "2026-10-21"
     },
     {
       "id": "ford/focus-rs/2016-2018/benzin-2.3-yvda",
-      "file": "profiles/ford/focus-rs/2016-2018/benzin-2.3-yvda.json",
+      "file": "ford/focus-rs/2016-2018/benzin-2.3-yvda.json",
       "bytes": 785,
       "sha256": "6bf6618e3f033197e54f602941b77dff5cf546e73805f260197930e6b92b67c7",
       "date": "2026-10-21"
     },
     {
       "id": "ford/focus-st/2005-2010/benzin-2.5-duratec",
-      "file": "profiles/ford/focus-st/2005-2010/benzin-2.5-duratec.json",
+      "file": "ford/focus-st/2005-2010/benzin-2.5-duratec.json",
       "bytes": 804,
       "sha256": "c1ee79ec29072ea5dc63c9d8b93d0d3c9a27337855d80b77853e390d507da8b7",
       "date": "2026-10-21"
     },
     {
       "id": "ford/focus-st/2012-2018/benzin-2.0-r9dc",
-      "file": "profiles/ford/focus-st/2012-2018/benzin-2.0-r9dc.json",
+      "file": "ford/focus-st/2012-2018/benzin-2.0-r9dc.json",
       "bytes": 1031,
       "sha256": "e30abdda8a587099bed9e2d9a3ed786bc5ac964368260f540ed07a18d1ede307",
       "date": "2026-10-21"
     },
     {
       "id": "ford/focus-st/2019-2022/benzin-2.3-n3da",
-      "file": "profiles/ford/focus-st/2019-2022/benzin-2.3-n3da.json",
+      "file": "ford/focus-st/2019-2022/benzin-2.3-n3da.json",
       "bytes": 776,
       "sha256": "08e2432b3e2a4c65ea2474dd0e0a563e83523224ec1e0f3f56c840e9738d48c0",
       "date": "2026-10-21"
     },
     {
       "id": "honda/civic/1995-1997/benzin-1.6-d16-126ps",
-      "file": "profiles/honda/civic/1995-1997/benzin-1.6-d16-126ps.json",
+      "file": "honda/civic/1995-1997/benzin-1.6-d16-126ps.json",
       "bytes": 959,
       "sha256": "09976b868d5342ebc543c0501eb1b9e933204787f7b315c743d673c89d54c188",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/1997-1999/benzin-1.6-d16-115ps",
-      "file": "profiles/honda/civic/1997-1999/benzin-1.6-d16-115ps.json",
+      "file": "honda/civic/1997-1999/benzin-1.6-d16-115ps.json",
       "bytes": 959,
       "sha256": "f3540a7ce60f46e7aa9b28a4e6e50ef8fb3efb7d8dbe810a589da4f7431dd895",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/1998-2001/benzin-1.4-d14",
-      "file": "profiles/honda/civic/1998-2001/benzin-1.4-d14.json",
+      "file": "honda/civic/1998-2001/benzin-1.4-d14.json",
       "bytes": 1188,
       "sha256": "d2b7137d4107df993fbc455b88f1804b2631c866dfd677a27889de04a55bbde6",
       "date": "2026-11-01"
     },
     {
       "id": "honda/civic/1998-2001/benzin-1.4-d14z",
-      "file": "profiles/honda/civic/1998-2001/benzin-1.4-d14z.json",
+      "file": "honda/civic/1998-2001/benzin-1.4-d14z.json",
       "bytes": 1055,
       "sha256": "440479d205a1621b2a703742f56d3e6140563b05393c036466f41582a676ef18",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/1998-2001/benzin-1.6-b16a2-vti",
-      "file": "profiles/honda/civic/1998-2001/benzin-1.6-b16a2-vti.json",
+      "file": "honda/civic/1998-2001/benzin-1.6-b16a2-vti.json",
       "bytes": 1086,
       "sha256": "461ae646e5644bcc740fb466e77fc0e25f3cdb6aea1149546181b12dccfdd8c1",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2001-2005/benzin-1.4-d14z6",
-      "file": "profiles/honda/civic/2001-2005/benzin-1.4-d14z6.json",
+      "file": "honda/civic/2001-2005/benzin-1.4-d14z6.json",
       "bytes": 895,
       "sha256": "c35c07384a5b7e5da1ce67c3ae32932b9bd6cd61d6c7d345355604e21772415c",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2001-2005/benzin-1.6-d16v1",
-      "file": "profiles/honda/civic/2001-2005/benzin-1.6-d16v1.json",
+      "file": "honda/civic/2001-2005/benzin-1.6-d16v1.json",
       "bytes": 896,
       "sha256": "4c612c298ffd7856acb2f89924bcafe1aa51a2e6715ae6aae5a7fee46bed62ce",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2001-2005/benzin-2.0-k20a2-type-r",
-      "file": "profiles/honda/civic/2001-2005/benzin-2.0-k20a2-type-r.json",
+      "file": "honda/civic/2001-2005/benzin-2.0-k20a2-type-r.json",
       "bytes": 849,
       "sha256": "f1051e98551690c6c938d32952610665126137fb3d217780beef92785ffb77d3",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2004-2005/benzin-2.0-k20-sport",
-      "file": "profiles/honda/civic/2004-2005/benzin-2.0-k20-sport.json",
+      "file": "honda/civic/2004-2005/benzin-2.0-k20-sport.json",
       "bytes": 871,
       "sha256": "4b751ac684af0b45c638d2f0fa1774aa9a12d62b6d7650de0905279b4350e45d",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2005-2008/benzin-1.4-l13a7",
-      "file": "profiles/honda/civic/2005-2008/benzin-1.4-l13a7.json",
+      "file": "honda/civic/2005-2008/benzin-1.4-l13a7.json",
       "bytes": 840,
       "sha256": "d9a537a5619f49b2b00da7773ae9d6d88cfcc4a8ae090523de9ac0e697c94f87",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2006-2011/benzin-1.8-r18a2",
-      "file": "profiles/honda/civic/2006-2011/benzin-1.8-r18a2.json",
+      "file": "honda/civic/2006-2011/benzin-1.8-r18a2.json",
       "bytes": 842,
       "sha256": "5740d43dae92d128e2f65d84d4b7577899212d9af85af0ddae3462df8f4d3707",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2007-2011/benzin-2.0-k20z4-type-r",
-      "file": "profiles/honda/civic/2007-2011/benzin-2.0-k20z4-type-r.json",
+      "file": "honda/civic/2007-2011/benzin-2.0-k20z4-type-r.json",
       "bytes": 986,
       "sha256": "68417054acec51d4a368b0ceb20311e0b6951b4d1350177d3f63dafbbfd98618",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2009-2011/benzin-1.4-l13z1",
-      "file": "profiles/honda/civic/2009-2011/benzin-1.4-l13z1.json",
+      "file": "honda/civic/2009-2011/benzin-1.4-l13z1.json",
       "bytes": 841,
       "sha256": "4e73105e28a06353b41bb6b2ebaaece1facb7b857092b1da32698f984fc0c00f",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2012-2015/benzin-1.4-l13z4",
-      "file": "profiles/honda/civic/2012-2015/benzin-1.4-l13z4.json",
+      "file": "honda/civic/2012-2015/benzin-1.4-l13z4.json",
       "bytes": 841,
       "sha256": "2f47edd58af06d02563e25df042893ba24aa9a3088d11a6ec4c25aa699f5991e",
       "date": "2026-10-24"
     },
     {
       "id": "honda/civic/2012-2015/benzin-1.8-r18z4",
-      "file": "profiles/honda/civic/2012-2015/benzin-1.8-r18z4.json",
+      "file": "honda/civic/2012-2015/benzin-1.8-r18z4.json",
       "bytes": 842,
       "sha256": "f251111e508fe628a6027a444deab0a501827e3b7d1642bf496c76a5019f098f",
       "date": "2026-10-24"
     },
     {
       "id": "hyundai/i30/2010-2012/benzin-1.4-gamma",
-      "file": "profiles/hyundai/i30/2010-2012/benzin-1.4-gamma.json",
+      "file": "hyundai/i30/2010-2012/benzin-1.4-gamma.json",
       "bytes": 946,
       "sha256": "6a62fb8b3907c36c87be1f6fc7f5cf6497cea89189a6f9152d97540a03bd5579",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2010-2012/benzin-1.6-gamma",
-      "file": "profiles/hyundai/i30/2010-2012/benzin-1.6-gamma.json",
+      "file": "hyundai/i30/2010-2012/benzin-1.6-gamma.json",
       "bytes": 949,
       "sha256": "d8c8b0df2b4b3ccbd174209906a7c8918464f1a9b6149ab8109732531dbe438b",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2010-2012/benzin-2.0-beta",
-      "file": "profiles/hyundai/i30/2010-2012/benzin-2.0-beta.json",
+      "file": "hyundai/i30/2010-2012/benzin-2.0-beta.json",
       "bytes": 948,
       "sha256": "c4e5eaf6b62e28adccd118f54dc4d87c71f912b819f57536a843b0d40669c822",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2010-2012/diesel-1.6-u-116ps",
-      "file": "profiles/hyundai/i30/2010-2012/diesel-1.6-u-116ps.json",
+      "file": "hyundai/i30/2010-2012/diesel-1.6-u-116ps.json",
       "bytes": 881,
       "sha256": "f7262885937698fad682e6bb3ff3b340ae6fb7e53b483edd3f84c26dcfe6fbd8",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2010-2012/diesel-1.6-u-90ps",
-      "file": "profiles/hyundai/i30/2010-2012/diesel-1.6-u-90ps.json",
+      "file": "hyundai/i30/2010-2012/diesel-1.6-u-90ps.json",
       "bytes": 878,
       "sha256": "977f66a6514823c72737e0957d3538ba8b50d4463fb281b6c3c48399576d14e3",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2010-2012/diesel-1.6-u2",
-      "file": "profiles/hyundai/i30/2010-2012/diesel-1.6-u2.json",
+      "file": "hyundai/i30/2010-2012/diesel-1.6-u2.json",
       "bytes": 880,
       "sha256": "094f367b018a69e4842ae9dbae195a059723ab03ab17e99cc92aa3cd8ba2ef55",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2010-2012/diesel-2.0-d",
-      "file": "profiles/hyundai/i30/2010-2012/diesel-2.0-d.json",
+      "file": "hyundai/i30/2010-2012/diesel-2.0-d.json",
       "bytes": 879,
       "sha256": "bdce1bf4f1defec4d99cb092754cb9fb0ded010bac3f546e3c618df607b56ff7",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2011-2016/benzin-1.4-g4fa",
-      "file": "profiles/hyundai/i30/2011-2016/benzin-1.4-g4fa.json",
+      "file": "hyundai/i30/2011-2016/benzin-1.4-g4fa.json",
       "bytes": 910,
       "sha256": "33f769445558bab8f26f1ecfe2938280772d44a9d6c4db7748834dbb2efef6a0",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2011-2016/benzin-1.6-g4fd-gdi",
-      "file": "profiles/hyundai/i30/2011-2016/benzin-1.6-g4fd-gdi.json",
+      "file": "hyundai/i30/2011-2016/benzin-1.6-g4fd-gdi.json",
       "bytes": 913,
       "sha256": "4bb94337af8500d6d36fcf61e3211e3d6d6dfc69bc3ed5744627aef07f8b6f2c",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2011-2016/diesel-1.4-d4fc",
-      "file": "profiles/hyundai/i30/2011-2016/diesel-1.4-d4fc.json",
+      "file": "hyundai/i30/2011-2016/diesel-1.4-d4fc.json",
       "bytes": 840,
       "sha256": "3d005eb0acf8912652f3ea572d292d1c94e29563877c997d9db9b6a4126e90a6",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2011-2016/diesel-1.6-d4fb-110ps",
-      "file": "profiles/hyundai/i30/2011-2016/diesel-1.6-d4fb-110ps.json",
+      "file": "hyundai/i30/2011-2016/diesel-1.6-d4fb-110ps.json",
       "bytes": 843,
       "sha256": "b8c5542079e6a9b141c1550f633b9d4adec49309f0d5a27a335e3d971dc911b7",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2011-2016/diesel-1.6-d4fb-128ps",
-      "file": "profiles/hyundai/i30/2011-2016/diesel-1.6-d4fb-128ps.json",
+      "file": "hyundai/i30/2011-2016/diesel-1.6-d4fb-128ps.json",
       "bytes": 843,
       "sha256": "0f7c2880d6027490054ed0e9ac2ba70c0a8e286fc8900cc636de3ea7a301bfe7",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2012-2015/benzin-1.6-g4fg",
-      "file": "profiles/hyundai/i30/2012-2015/benzin-1.6-g4fg.json",
+      "file": "hyundai/i30/2012-2015/benzin-1.6-g4fg.json",
       "bytes": 913,
       "sha256": "5c5733954d09a618d16e4f46ff165f18ee25d7976c0b44ea47e6db7ab40faea1",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2015-2017/benzin-1.6-g4fj-turbo",
-      "file": "profiles/hyundai/i30/2015-2017/benzin-1.6-g4fj-turbo.json",
+      "file": "hyundai/i30/2015-2017/benzin-1.6-g4fj-turbo.json",
       "bytes": 856,
       "sha256": "19ed30288bff8ca11a7b5c17e2e3b8357ecc76d549165eaea480a0be5cedaaa1",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2015-2017/diesel-1.6-d4fb-136ps",
-      "file": "profiles/hyundai/i30/2015-2017/diesel-1.6-d4fb-136ps.json",
+      "file": "hyundai/i30/2015-2017/diesel-1.6-d4fb-136ps.json",
       "bytes": 844,
       "sha256": "c9e634956e44119d510cc3fc3b3218d4bb7d41a73a143c0022918600d6cfb687",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2017-2020/benzin-1.4-g4lc",
-      "file": "profiles/hyundai/i30/2017-2020/benzin-1.4-g4lc.json",
+      "file": "hyundai/i30/2017-2020/benzin-1.4-g4lc.json",
       "bytes": 913,
       "sha256": "bc56a65d0e9645417983ed94be9f24bd7dcdeea0cedd6fdbb96b33b94d59d293",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2017-2020/benzin-1.4-g4ld",
-      "file": "profiles/hyundai/i30/2017-2020/benzin-1.4-g4ld.json",
+      "file": "hyundai/i30/2017-2020/benzin-1.4-g4ld.json",
       "bytes": 844,
       "sha256": "902421b5ea1414ddaa99bdf081701f33a5ef482b503e21fd4ae9f11e83c339dc",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2017-2020/benzin-1.6-g4fj-t-gdi",
-      "file": "profiles/hyundai/i30/2017-2020/benzin-1.6-g4fj-t-gdi.json",
+      "file": "hyundai/i30/2017-2020/benzin-1.6-g4fj-t-gdi.json",
       "bytes": 951,
       "sha256": "111a0ea539a3be7ae5948fd7acfba3d92c521814e3ce426e33afd710041ac171",
       "date": "2026-10-21"
     },
     {
       "id": "hyundai/i30/2017-2020/benzin-2.0-g4kh-n-performance",
-      "file": "profiles/hyundai/i30/2017-2020/benzin-2.0-g4kh-n-performance.json",
+      "file": "hyundai/i30/2017-2020/benzin-2.0-g4kh-n-performance.json",
       "bytes": 1020,
       "sha256": "6789aee17043448a3a18f4184279bd98c5ea049153587ae34b0ab25fae8ff876",
       "date": "2026-10-21"
     },
     {
       "id": "hyundai/i30/2017-2020/benzin-2.0-g4kh-n",
-      "file": "profiles/hyundai/i30/2017-2020/benzin-2.0-g4kh-n.json",
+      "file": "hyundai/i30/2017-2020/benzin-2.0-g4kh-n.json",
       "bytes": 1070,
       "sha256": "95801154ead6e5f576ee06e35e21303db76514270d3b8735b79aef359b879fca",
       "date": "2026-10-21"
     },
     {
       "id": "hyundai/i30/2017-2020/diesel-1.6-d4fb-115ps",
-      "file": "profiles/hyundai/i30/2017-2020/diesel-1.6-d4fb-115ps.json",
+      "file": "hyundai/i30/2017-2020/diesel-1.6-d4fb-115ps.json",
       "bytes": 843,
       "sha256": "b06c440e2ea479f971e560f619cb66aac8dfe60fd9c7c03527bfff39644e0bf3",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2017-2020/diesel-1.6-d4fb-95ps",
-      "file": "profiles/hyundai/i30/2017-2020/diesel-1.6-d4fb-95ps.json",
+      "file": "hyundai/i30/2017-2020/diesel-1.6-d4fb-95ps.json",
       "bytes": 840,
       "sha256": "4b35407479b32e752efa8166644cc8338b86e72a74ef986a8f90654dd9c4f542",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2017-2024/benzin-1.0-g3lc",
-      "file": "profiles/hyundai/i30/2017-2024/benzin-1.0-g3lc.json",
+      "file": "hyundai/i30/2017-2024/benzin-1.0-g3lc.json",
       "bytes": 842,
       "sha256": "01bc471e43d5fb0375c71b1043c2ebdc56fc7adc4c2a085a2bc2c25c4c98666c",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2020-2024/benzin-1.5-g4lg",
-      "file": "profiles/hyundai/i30/2020-2024/benzin-1.5-g4lg.json",
+      "file": "hyundai/i30/2020-2024/benzin-1.5-g4lg.json",
       "bytes": 913,
       "sha256": "f5ee117ccba8fe09ce34ed4b1d44c1b086a6a0d9cc4a0346eb5f49e342940edf",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2020-2024/benzin-1.5-g4lh",
-      "file": "profiles/hyundai/i30/2020-2024/benzin-1.5-g4lh.json",
+      "file": "hyundai/i30/2020-2024/benzin-1.5-g4lh.json",
       "bytes": 844,
       "sha256": "73fd03ca809fcf24f8973d9ee869de8c0595e052e7b22dc93ef4a2164a161efc",
       "date": "2026-11-01"
     },
     {
       "id": "hyundai/i30/2020-2024/benzin-2.0-g4kh-n-performance",
-      "file": "profiles/hyundai/i30/2020-2024/benzin-2.0-g4kh-n-performance.json",
+      "file": "hyundai/i30/2020-2024/benzin-2.0-g4kh-n-performance.json",
       "bytes": 1029,
       "sha256": "b3acebd27973813a609ad4aab6baae93f2b9b851c2e9b0750ebf9407cacd3c4b",
       "date": "2026-10-21"
     },
     {
       "id": "hyundai/i30/2020-2024/diesel-1.6-d4fe",
-      "file": "profiles/hyundai/i30/2020-2024/diesel-1.6-d4fe.json",
+      "file": "hyundai/i30/2020-2024/diesel-1.6-d4fe.json",
       "bytes": 1003,
       "sha256": "a51705fe1da94b03bd57648d87b9cdc32be58887be43509640e521f320e66791",
       "date": "2026-10-21"
     },
     {
       "id": "hyundai/ix35/2010-2015/benzin-2.0-g4kd-4wd",
-      "file": "profiles/hyundai/ix35/2010-2015/benzin-2.0-g4kd-4wd.json",
+      "file": "hyundai/ix35/2010-2015/benzin-2.0-g4kd-4wd.json",
       "bytes": 1168,
       "sha256": "b5e0db77904be1dc2450eedd4b0bebd6347c4cd9ecb1e03820ec84f5db81247f",
       "date": "2026-10-24"
     },
     {
       "id": "kia/ceed/2009-2010/benzin-2.0-beta",
-      "file": "profiles/kia/ceed/2009-2010/benzin-2.0-beta.json",
+      "file": "kia/ceed/2009-2010/benzin-2.0-beta.json",
       "bytes": 987,
       "sha256": "bc1439547a5c4e8376acc9ed4abd7457299333a25de70f8794fdb31e5b0e2cec",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2009-2010/diesel-2.0-d",
-      "file": "profiles/kia/ceed/2009-2010/diesel-2.0-d.json",
+      "file": "kia/ceed/2009-2010/diesel-2.0-d.json",
       "bytes": 872,
       "sha256": "b67c92c324ce1e051dbba08c869c1c96e47b0fc56476087d51a8f6b5cd1a0f83",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2009-2013/benzin-1.4-gamma",
-      "file": "profiles/kia/ceed/2009-2013/benzin-1.4-gamma.json",
+      "file": "kia/ceed/2009-2013/benzin-1.4-gamma.json",
       "bytes": 985,
       "sha256": "d0d7a077ad9e5b63f873f169254675b70bd357e559c39a485017d65c447ae207",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2009-2013/benzin-1.6-gamma",
-      "file": "profiles/kia/ceed/2009-2013/benzin-1.6-gamma.json",
+      "file": "kia/ceed/2009-2013/benzin-1.6-gamma.json",
       "bytes": 988,
       "sha256": "5e9c59eead9f3cae5f328e9aa2a21025e51c8031a78499cbe7bf2cf3864b0e85",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2009-2013/diesel-1.6-u-115ps",
-      "file": "profiles/kia/ceed/2009-2013/diesel-1.6-u-115ps.json",
+      "file": "kia/ceed/2009-2013/diesel-1.6-u-115ps.json",
       "bytes": 871,
       "sha256": "bf4244960a3091523dafdf1cb9d4462862ae89f3a67454c6468a751f5634dd16",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2010-2013/diesel-1.6-u2",
-      "file": "profiles/kia/ceed/2010-2013/diesel-1.6-u2.json",
+      "file": "kia/ceed/2010-2013/diesel-1.6-u2.json",
       "bytes": 873,
       "sha256": "ba550b2d79d146f34bdf6e3b0c70fc9a8cc16a0e1af734e01364d4d602530f71",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2012-2015/benzin-1.6-g4fd-gdi",
-      "file": "profiles/kia/ceed/2012-2015/benzin-1.6-g4fd-gdi.json",
+      "file": "kia/ceed/2012-2015/benzin-1.6-g4fd-gdi.json",
       "bytes": 957,
       "sha256": "fecc56a1f7c856bc27fd317450db8029f96cfd7d53f1c1a1b20aa1ac5808dd4a",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2012-2018/diesel-1.6-d4fb",
-      "file": "profiles/kia/ceed/2012-2018/diesel-1.6-d4fb.json",
+      "file": "kia/ceed/2012-2018/diesel-1.6-d4fb.json",
       "bytes": 887,
       "sha256": "0e6d55ba1c1f4968f46a656b5fcb9e6c2b8713346a2fb2f03616e3c9c9d55f46",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2013-2018/benzin-1.6-g4fj-gt",
-      "file": "profiles/kia/ceed/2013-2018/benzin-1.6-g4fj-gt.json",
+      "file": "kia/ceed/2013-2018/benzin-1.6-g4fj-gt.json",
       "bytes": 940,
       "sha256": "d37e54c0ae98e45f2412ad7a34aea3d8077b16c1d4c36cde24009b66aaa032c8",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2018-2019/benzin-1.4-g4lc",
-      "file": "profiles/kia/ceed/2018-2019/benzin-1.4-g4lc.json",
+      "file": "kia/ceed/2018-2019/benzin-1.4-g4lc.json",
       "bytes": 965,
       "sha256": "035ecbef8224328a6f35a537fe647bd8f39ceee1b92fc405b6a623ddf6f533f3",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2018-2020/benzin-1.4-g4ld",
-      "file": "profiles/kia/ceed/2018-2020/benzin-1.4-g4ld.json",
+      "file": "kia/ceed/2018-2020/benzin-1.4-g4ld.json",
       "bytes": 833,
       "sha256": "3d826c002d51dcfcb54da915c9113f981895941b2cae62ab7d855e3cee0836f9",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2018-2021/benzin-1.0-g3lc",
-      "file": "profiles/kia/ceed/2018-2021/benzin-1.0-g3lc.json",
+      "file": "kia/ceed/2018-2021/benzin-1.0-g3lc.json",
       "bytes": 831,
       "sha256": "dd971cf14af74112de5c33514e89ecf126de114484e6ef938242374eb2222f98",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2018-2026/diesel-1.6-d4fe-116ps",
-      "file": "profiles/kia/ceed/2018-2026/diesel-1.6-d4fe-116ps.json",
+      "file": "kia/ceed/2018-2026/diesel-1.6-d4fe-116ps.json",
       "bytes": 832,
       "sha256": "418e5352429bae8b42f1c09af2071f2a7c645eaf63a8aaaf97b9e889dfd3eb05",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2018-2026/diesel-1.6-d4fe-136ps",
-      "file": "profiles/kia/ceed/2018-2026/diesel-1.6-d4fe-136ps.json",
+      "file": "kia/ceed/2018-2026/diesel-1.6-d4fe-136ps.json",
       "bytes": 836,
       "sha256": "52543ae280ce16768ef66adf405f8cad9684d4976521d598ae9b4b82b78db62f",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2019-2026/benzin-1.6-g4fj-gt",
-      "file": "profiles/kia/ceed/2019-2026/benzin-1.6-g4fj-gt.json",
+      "file": "kia/ceed/2019-2026/benzin-1.6-g4fj-gt.json",
       "bytes": 920,
       "sha256": "fff8cc0f0298c68e5146928c226fee8eb90f120937b46c8b17122a301e945192",
       "date": "2026-11-01"
     },
     {
       "id": "kia/ceed/2020-2026/benzin-1.5-g4lh",
-      "file": "profiles/kia/ceed/2020-2026/benzin-1.5-g4lh.json",
+      "file": "kia/ceed/2020-2026/benzin-1.5-g4lh.json",
       "bytes": 862,
       "sha256": "e8b8080b971d537ac7735cb9ef1c21dee278983a17145bef7a44a7b1c225db09",
       "date": "2026-11-01"
     },
     {
       "id": "mazda/3/2009-2013/benzin-1.6-z6",
-      "file": "profiles/mazda/3/2009-2013/benzin-1.6-z6.json",
+      "file": "mazda/3/2009-2013/benzin-1.6-z6.json",
       "bytes": 828,
       "sha256": "77be4bd61f9c2d19ada15bf0a1f408be4236185842629c79806ffa947fac22b8",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2009-2013/benzin-2.0-lf-disi",
-      "file": "profiles/mazda/3/2009-2013/benzin-2.0-lf-disi.json",
+      "file": "mazda/3/2009-2013/benzin-2.0-lf-disi.json",
       "bytes": 829,
       "sha256": "160b6a53f121e2659554ebded1d2239bfe18f1d8c25fbfeeaf2ee98dd4bbad51",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2009-2013/benzin-2.3-disi-turbo-mps",
-      "file": "profiles/mazda/3/2009-2013/benzin-2.3-disi-turbo-mps.json",
+      "file": "mazda/3/2009-2013/benzin-2.3-disi-turbo-mps.json",
       "bytes": 848,
       "sha256": "f88d5a6b6acc20abd18c7bba6724fb2e23368722bce1fec0b1957fd8787a4352",
       "date": "2026-11-01"
     },
     {
       "id": "mazda/3/2013-2019/benzin-1.5-p5",
-      "file": "profiles/mazda/3/2013-2019/benzin-1.5-p5.json",
+      "file": "mazda/3/2013-2019/benzin-1.5-p5.json",
       "bytes": 828,
       "sha256": "288e574fe26fbd65543c42a20ef29c3021e4618b7c340af81462be142fd392c5",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2013-2019/benzin-2.0-pe-120ps",
-      "file": "profiles/mazda/3/2013-2019/benzin-2.0-pe-120ps.json",
+      "file": "mazda/3/2013-2019/benzin-2.0-pe-120ps.json",
       "bytes": 828,
       "sha256": "017784c24d4018abd041a2677f60e28c35f13db9f6807f113b6895021d0d5fcd",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2013-2019/benzin-2.0-pe-165ps",
-      "file": "profiles/mazda/3/2013-2019/benzin-2.0-pe-165ps.json",
+      "file": "mazda/3/2013-2019/benzin-2.0-pe-165ps.json",
       "bytes": 829,
       "sha256": "b36fd32c9c338e1c1168322f7fb67a8d151cbbc310b0b0acdbe431e05e6d92e3",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2019-2020/benzin-2.0-pe-122ps",
-      "file": "profiles/mazda/3/2019-2020/benzin-2.0-pe-122ps.json",
+      "file": "mazda/3/2019-2020/benzin-2.0-pe-122ps.json",
       "bytes": 828,
       "sha256": "835dbcd87e44749821b8dfeb81cdbd7ccca0f519bffb9b33d0920083e1120ab6",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2019-2021/benzin-2.0-hf-skyactiv-x",
-      "file": "profiles/mazda/3/2019-2021/benzin-2.0-hf-skyactiv-x.json",
+      "file": "mazda/3/2019-2021/benzin-2.0-hf-skyactiv-x.json",
       "bytes": 829,
       "sha256": "cff7d23615c0b07f325c9ed694525c1c43aa39b4a06f1a14377476f945f17fd8",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2020-2026/benzin-2.0-pe-150ps",
-      "file": "profiles/mazda/3/2020-2026/benzin-2.0-pe-150ps.json",
+      "file": "mazda/3/2020-2026/benzin-2.0-pe-150ps.json",
       "bytes": 829,
       "sha256": "69e00485e78b935bd432be8324e3998544f45c522ae766da6a7a0cd269783844",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/3/2021-2026/benzin-2.0-hf-skyactiv-x",
-      "file": "profiles/mazda/3/2021-2026/benzin-2.0-hf-skyactiv-x.json",
+      "file": "mazda/3/2021-2026/benzin-2.0-hf-skyactiv-x.json",
       "bytes": 829,
       "sha256": "ad6dca8749c2cdc287051a4f8758e0944fc1a0837ca51f7430c84b604917d21f",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/6/2008-2012/benzin-1.8-l8",
-      "file": "profiles/mazda/6/2008-2012/benzin-1.8-l8.json",
+      "file": "mazda/6/2008-2012/benzin-1.8-l8.json",
       "bytes": 828,
       "sha256": "ca74fb016d6f644fe1d4219826ac83ba50217c03b60e33b152451712604c9d90",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/6/2008-2012/benzin-2.0-lf",
-      "file": "profiles/mazda/6/2008-2012/benzin-2.0-lf.json",
+      "file": "mazda/6/2008-2012/benzin-2.0-lf.json",
       "bytes": 829,
       "sha256": "b017a12c8278daa156374a927d33c880154a4d7c4adb627ebd223d1f6d15cc7e",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/6/2008-2012/benzin-2.5-l5",
-      "file": "profiles/mazda/6/2008-2012/benzin-2.5-l5.json",
+      "file": "mazda/6/2008-2012/benzin-2.5-l5.json",
       "bytes": 829,
       "sha256": "23f362fbb3e4b843b2d6482753cdd8bf69df50f33eda33f9222749f8a1e806ce",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/6/2013-2024/benzin-2.0-pe-145ps",
-      "file": "profiles/mazda/6/2013-2024/benzin-2.0-pe-145ps.json",
+      "file": "mazda/6/2013-2024/benzin-2.0-pe-145ps.json",
       "bytes": 829,
       "sha256": "27c7b13e9ca0103de0b3d9157970c6b81a9358cc4abdb228e6fd0d4eef1492f2",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/6/2013-2024/benzin-2.0-pe-165ps",
-      "file": "profiles/mazda/6/2013-2024/benzin-2.0-pe-165ps.json",
+      "file": "mazda/6/2013-2024/benzin-2.0-pe-165ps.json",
       "bytes": 829,
       "sha256": "06a07001e939bad5044f12a165a22dff5ecb8ff2c0af7907ac03c134a64b8963",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2005-2015/benzin-1.8-l8",
-      "file": "profiles/mazda/mx-5/2005-2015/benzin-1.8-l8.json",
+      "file": "mazda/mx-5/2005-2015/benzin-1.8-l8.json",
       "bytes": 834,
       "sha256": "7c4da73dfe7e271846544457f4e435c555113aef486cdb7d45e2c847ae9ebb2e",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2005-2015/benzin-2.0-lf-5gang",
-      "file": "profiles/mazda/mx-5/2005-2015/benzin-2.0-lf-5gang.json",
+      "file": "mazda/mx-5/2005-2015/benzin-2.0-lf-5gang.json",
       "bytes": 835,
       "sha256": "f2b7126f9dbfaa37854217f6973ca9cadab3dcca2993fadd9f401c42038bfbe4",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2005-2015/benzin-2.0-lf-6gang",
-      "file": "profiles/mazda/mx-5/2005-2015/benzin-2.0-lf-6gang.json",
+      "file": "mazda/mx-5/2005-2015/benzin-2.0-lf-6gang.json",
       "bytes": 970,
       "sha256": "097c85616ddaf6b88b8022aeafac682f383c8c4e4e7a2fa4d179fab3bf7bf1f5",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2015-2018/benzin-1.5-p5",
-      "file": "profiles/mazda/mx-5/2015-2018/benzin-1.5-p5.json",
+      "file": "mazda/mx-5/2015-2018/benzin-1.5-p5.json",
       "bytes": 834,
       "sha256": "ec988261c5f79886d74598f24cba6ebfdf049008b7a258ea65511fa4dd27859d",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2015-2018/benzin-2.0-pe",
-      "file": "profiles/mazda/mx-5/2015-2018/benzin-2.0-pe.json",
+      "file": "mazda/mx-5/2015-2018/benzin-2.0-pe.json",
       "bytes": 835,
       "sha256": "62a23aa70e57fec2f1f6f0f59a8580ab6571f93cbbc79bb8435293fd3822b5eb",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2018-2023/benzin-1.5-p5-132",
-      "file": "profiles/mazda/mx-5/2018-2023/benzin-1.5-p5-132.json",
+      "file": "mazda/mx-5/2018-2023/benzin-1.5-p5-132.json",
       "bytes": 834,
       "sha256": "e0b5df9b65e339daff09940c1ad2f3dbe6f3730b1388a86b8214f3f1f5fb7aab",
       "date": "2026-10-24"
     },
     {
       "id": "mazda/mx-5/2018-2023/benzin-2.0-pe-184",
-      "file": "profiles/mazda/mx-5/2018-2023/benzin-2.0-pe-184.json",
+      "file": "mazda/mx-5/2018-2023/benzin-2.0-pe-184.json",
       "bytes": 836,
       "sha256": "d65c9c42888d670276025823548aaecbe99b9d9e0cd17973c5205044a6923dce",
       "date": "2026-10-24"
     },
     {
       "id": "mini/cooper-s/2006-2010/benzin-1.6-n14b16a",
-      "file": "profiles/mini/cooper-s/2006-2010/benzin-1.6-n14b16a.json",
+      "file": "mini/cooper-s/2006-2010/benzin-1.6-n14b16a.json",
       "bytes": 782,
       "sha256": "3a6acc2f16de70020205fd25e4fd1e475b109aa59d078e635ab48ef7d17b3ead",
       "date": "2026-10-21"
     },
     {
       "id": "mini/cooper-s/2010-2013/benzin-1.6-n18b16a",
-      "file": "profiles/mini/cooper-s/2010-2013/benzin-1.6-n18b16a.json",
+      "file": "mini/cooper-s/2010-2013/benzin-1.6-n18b16a.json",
       "bytes": 896,
       "sha256": "9ccc6e9b7a9d09cb3afa10dbe41aaa64193b6dbc8d41c2487a79d175279b1180",
       "date": "2026-10-21"
     },
     {
       "id": "mini/cooper-s/2014-2024/benzin-2.0-b48a20a",
-      "file": "profiles/mini/cooper-s/2014-2024/benzin-2.0-b48a20a.json",
+      "file": "mini/cooper-s/2014-2024/benzin-2.0-b48a20a.json",
       "bytes": 896,
       "sha256": "97cac1a9c7bf4132355610752c5a2a9a60b7dc5f4d0bf27bc792f27987ec887d",
       "date": "2026-10-21"
     },
     {
       "id": "mini/john-cooper-works/2015-2024/benzin-2.0-b48",
-      "file": "profiles/mini/john-cooper-works/2015-2024/benzin-2.0-b48.json",
+      "file": "mini/john-cooper-works/2015-2024/benzin-2.0-b48.json",
       "bytes": 924,
       "sha256": "625624ff4b3972a2d4e3bf459a4a9f6d32a6407cd262d1c4c8d1260e414f569d",
       "date": "2026-10-21"
     },
     {
       "id": "opel/astra/1998-2005/benzin-1.6-x16xel",
-      "file": "profiles/opel/astra/1998-2005/benzin-1.6-x16xel.json",
+      "file": "opel/astra/1998-2005/benzin-1.6-x16xel.json",
       "bytes": 930,
       "sha256": "2a58ec82a317875a447f2f8bd7120139055f1958506fe8bc36f91f74750cbe58",
       "date": "2026-11-05"
     },
     {
       "id": "opel/astra/1998-2005/benzin-1.6-z16xe-automatik",
-      "file": "profiles/opel/astra/1998-2005/benzin-1.6-z16xe-automatik.json",
+      "file": "opel/astra/1998-2005/benzin-1.6-z16xe-automatik.json",
       "bytes": 1111,
       "sha256": "9be79673b80ccd1cc8058e3f2240f7392ae76f24322237d1e82e23c9b6d80808",
       "date": "2026-11-05"
     },
     {
       "id": "opel/astra/1998-2005/benzin-1.6-z16xe",
-      "file": "profiles/opel/astra/1998-2005/benzin-1.6-z16xe.json",
+      "file": "opel/astra/1998-2005/benzin-1.6-z16xe.json",
       "bytes": 885,
       "sha256": "c6481f2dbf96decf5cecfb0a8c327f31c18e8f547befdedf613f2fb9e76dc8a9",
       "date": "2026-11-05"
     },
     {
       "id": "renault/megane-rs/2009-2012/benzin-2.0-f4r-250",
-      "file": "profiles/renault/megane-rs/2009-2012/benzin-2.0-f4r-250.json",
+      "file": "renault/megane-rs/2009-2012/benzin-2.0-f4r-250.json",
       "bytes": 788,
       "sha256": "c997142ad53e39c44a1fa4b63f62e927f12c63b5cd7fcf9accfaa50641751ee4",
       "date": "2026-10-21"
     },
     {
       "id": "renault/megane-rs/2015-2016/benzin-2.0-f4r-275",
-      "file": "profiles/renault/megane-rs/2015-2016/benzin-2.0-f4r-275.json",
+      "file": "renault/megane-rs/2015-2016/benzin-2.0-f4r-275.json",
       "bytes": 788,
       "sha256": "ba735d1b34149e75571f5ac29566a8a627907e0f2f868eea519e16ba96abc9c1",
       "date": "2026-10-21"
     },
     {
       "id": "renault/megane-rs/2020-2021/benzin-1.8-m5p-trophy",
-      "file": "profiles/renault/megane-rs/2020-2021/benzin-1.8-m5p-trophy.json",
+      "file": "renault/megane-rs/2020-2021/benzin-1.8-m5p-trophy.json",
       "bytes": 793,
       "sha256": "63cb5ed16b0e1f8ce762023fe2ce1866149ba3123021f61f3fbec1cd309d512c",
       "date": "2026-10-21"
     },
     {
       "id": "seat/leon/1999-2005/benzin-1.8-ajq-cupra",
-      "file": "profiles/seat/leon/1999-2005/benzin-1.8-ajq-cupra.json",
+      "file": "seat/leon/1999-2005/benzin-1.8-ajq-cupra.json",
       "bytes": 948,
       "sha256": "6b338dc2994f56ce12174b13a4174819d3c5ed2dfebc9b6a5d9e2bffe467a913",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/1999-2005/diesel-1.9-asv",
-      "file": "profiles/seat/leon/1999-2005/diesel-1.9-asv.json",
+      "file": "seat/leon/1999-2005/diesel-1.9-asv.json",
       "bytes": 927,
       "sha256": "22862c252fb686c07efe924616ed5976b77fd20a2569a8c09c1f46130b4df695",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2000-2005/diesel-1.9-arl",
-      "file": "profiles/seat/leon/2000-2005/diesel-1.9-arl.json",
+      "file": "seat/leon/2000-2005/diesel-1.9-arl.json",
       "bytes": 917,
       "sha256": "53c13cf4f99369ad6989ac6cec7acba36d0ea1064e73adbc9c57991e4e156eaf",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2002-2003/benzin-1.8-amk-cupra-r",
-      "file": "profiles/seat/leon/2002-2003/benzin-1.8-amk-cupra-r.json",
+      "file": "seat/leon/2002-2003/benzin-1.8-amk-cupra-r.json",
       "bytes": 825,
       "sha256": "b677ef5fdfd578b9e301f410fe949aefb05618b2ae6edfc846a537ca7829e907",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2003-2006/benzin-1.8-bam-cupra-r",
-      "file": "profiles/seat/leon/2003-2006/benzin-1.8-bam-cupra-r.json",
+      "file": "seat/leon/2003-2006/benzin-1.8-bam-cupra-r.json",
       "bytes": 825,
       "sha256": "9f4e713ff90f5a0de068cb86554ebadab146e6a609ee042f204f24efe599ec69",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2003-2006/diesel-1.9-asz",
-      "file": "profiles/seat/leon/2003-2006/diesel-1.9-asz.json",
+      "file": "seat/leon/2003-2006/diesel-1.9-asz.json",
       "bytes": 919,
       "sha256": "e0b999a868b17a91f3f9583bfa9314aafcd10fe3b727fa69937761de53ac22c6",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2005-2008/diesel-2.0-bkd",
-      "file": "profiles/seat/leon/2005-2008/diesel-2.0-bkd.json",
+      "file": "seat/leon/2005-2008/diesel-2.0-bkd.json",
       "bytes": 821,
       "sha256": "72ab00d373bc23f9b77ce050c25616eebeddb8e4ae64775e16d2f413470ca454",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2005-2009/diesel-1.9-bkc",
-      "file": "profiles/seat/leon/2005-2009/diesel-1.9-bkc.json",
+      "file": "seat/leon/2005-2009/diesel-1.9-bkc.json",
       "bytes": 831,
       "sha256": "d7f4e1f239eb946b024c4bd55a01dd5bac3029b90ea28cc8a6d27d9dc25e1b2f",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2006-2009/benzin-2.0-bwa-fr",
-      "file": "profiles/seat/leon/2006-2009/benzin-2.0-bwa-fr.json",
+      "file": "seat/leon/2006-2009/benzin-2.0-bwa-fr.json",
       "bytes": 821,
       "sha256": "c819248906ab7131dde4cfd13b8d56a640d508290f973471f8c48213d1ece1d4",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2006-2012/benzin-2.0-bwj-cupra",
-      "file": "profiles/seat/leon/2006-2012/benzin-2.0-bwj-cupra.json",
+      "file": "seat/leon/2006-2012/benzin-2.0-bwj-cupra.json",
       "bytes": 815,
       "sha256": "69d78e86346e034111b1cac949157377f6b0c070913055eeefc803a784c3ab82",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2007-2012/diesel-2.0-cega-fr",
-      "file": "profiles/seat/leon/2007-2012/diesel-2.0-cega-fr.json",
+      "file": "seat/leon/2007-2012/diesel-2.0-cega-fr.json",
       "bytes": 825,
       "sha256": "0c1b40ea3cc97b1af823dd60411cd9e5b1a6abf516f48d94a566ba8cdd6a081d",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2009-2012/benzin-2.0-cczb-fr",
-      "file": "profiles/seat/leon/2009-2012/benzin-2.0-cczb-fr.json",
+      "file": "seat/leon/2009-2012/benzin-2.0-cczb-fr.json",
       "bytes": 822,
       "sha256": "dbd8d8bc451473247847c022e6b73c7a809cfe0b6d025840bd6d444c981e79a1",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2009-2012/benzin-2.0-cdla-cupra-r",
-      "file": "profiles/seat/leon/2009-2012/benzin-2.0-cdla-cupra-r.json",
+      "file": "seat/leon/2009-2012/benzin-2.0-cdla-cupra-r.json",
       "bytes": 819,
       "sha256": "503b92dc5797cc365732dd9be0b9c8342e0d4b52a126a2ce5c6b5d4b8e6706c3",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2012-2020/diesel-2.0-ckfc",
-      "file": "profiles/seat/leon/2012-2020/diesel-2.0-ckfc.json",
+      "file": "seat/leon/2012-2020/diesel-2.0-ckfc.json",
       "bytes": 815,
       "sha256": "0b0397012d9c0ea9b3779728103622120ceaa3f05e3b5f1ade668f292aa28a08",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2013-2020/diesel-2.0-cuna-fr",
-      "file": "profiles/seat/leon/2013-2020/diesel-2.0-cuna-fr.json",
+      "file": "seat/leon/2013-2020/diesel-2.0-cuna-fr.json",
       "bytes": 822,
       "sha256": "5c647b94cc6f015cf4801e02e1b9b2f819bdd4a574f05de51356dd1dc8cd974c",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2014-2015/benzin-2.0-cjxa-cupra",
-      "file": "profiles/seat/leon/2014-2015/benzin-2.0-cjxa-cupra.json",
+      "file": "seat/leon/2014-2015/benzin-2.0-cjxa-cupra.json",
       "bytes": 817,
       "sha256": "c6facfa912ed65f608a68d396ffc4ffe2d4ec2c6417ce931f24f0bf560595e9b",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2014-2015/benzin-2.0-cjxe-cupra",
-      "file": "profiles/seat/leon/2014-2015/benzin-2.0-cjxe-cupra.json",
+      "file": "seat/leon/2014-2015/benzin-2.0-cjxe-cupra.json",
       "bytes": 817,
       "sha256": "3a6ced7fcf193278b23e8319d13feef1f4869b4dce4c08e695a3d8a565c8303a",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2015-2017/benzin-2.0-cjxh-cupra",
-      "file": "profiles/seat/leon/2015-2017/benzin-2.0-cjxh-cupra.json",
+      "file": "seat/leon/2015-2017/benzin-2.0-cjxh-cupra.json",
       "bytes": 817,
       "sha256": "028e34aa8132ec28d988647b4ed8d7f714c1ab4b56450824f942c4df2661a725",
       "date": "2026-11-01"
     },
     {
       "id": "seat/leon/2017-2020/benzin-2.0-cjxc-cupra",
-      "file": "profiles/seat/leon/2017-2020/benzin-2.0-cjxc-cupra.json",
+      "file": "seat/leon/2017-2020/benzin-2.0-cjxc-cupra.json",
       "bytes": 817,
       "sha256": "0a101ec42930aaa2180e88224295a7e460e8a02e1120ef660e57761e82800aa5",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2001-2005/benzin-1.8-auq-rs",
-      "file": "profiles/skoda/octavia/2001-2005/benzin-1.8-auq-rs.json",
+      "file": "skoda/octavia/2001-2005/benzin-1.8-auq-rs.json",
       "bytes": 847,
       "sha256": "79eb6a9a8c0fe65ed16a918e08d9594b05e5bf79233e7b0b7828f928d3cc662a",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2005-2008/benzin-2.0-bwa-rs",
-      "file": "profiles/skoda/octavia/2005-2008/benzin-2.0-bwa-rs.json",
+      "file": "skoda/octavia/2005-2008/benzin-2.0-bwa-rs.json",
       "bytes": 863,
       "sha256": "ab0f4274a1d9b3add4bd82258742eaac3f5cb800ecc3648922c090da7b264154",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2006-2008/diesel-2.0-bmn-rs",
-      "file": "profiles/skoda/octavia/2006-2008/diesel-2.0-bmn-rs.json",
+      "file": "skoda/octavia/2006-2008/diesel-2.0-bmn-rs.json",
       "bytes": 865,
       "sha256": "77380fdd49ca95cb36675cc483212beeb619bb6a506e96ce2c40e8fe68fec79d",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2008-2012/benzin-2.0-ccza-rs",
-      "file": "profiles/skoda/octavia/2008-2012/benzin-2.0-ccza-rs.json",
+      "file": "skoda/octavia/2008-2012/benzin-2.0-ccza-rs.json",
       "bytes": 864,
       "sha256": "6c5ad8400cff0b796682a19c3fcefdcf2df657c8f01e23c3e6fed8ebf0e08987",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2008-2013/diesel-2.0-cega-rs",
-      "file": "profiles/skoda/octavia/2008-2013/diesel-2.0-cega-rs.json",
+      "file": "skoda/octavia/2008-2013/diesel-2.0-cega-rs.json",
       "bytes": 867,
       "sha256": "85bfc111c5ecf7718b03d7ea3a0d8ab65d3d41035eeffb2f00c124bb26a2cd31",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2013-2019/benzin-2.0-chhb-rs",
-      "file": "profiles/skoda/octavia/2013-2019/benzin-2.0-chhb-rs.json",
+      "file": "skoda/octavia/2013-2019/benzin-2.0-chhb-rs.json",
       "bytes": 842,
       "sha256": "672283f0fb5f80b01846cd1ae87ec53cc3e1e7e15bfde3ac0b2efaf7af056945",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2013-2019/diesel-2.0-cupa-rs",
-      "file": "profiles/skoda/octavia/2013-2019/diesel-2.0-cupa-rs.json",
+      "file": "skoda/octavia/2013-2019/diesel-2.0-cupa-rs.json",
       "bytes": 846,
       "sha256": "37fb5843d7a0f87bf52e3292a60525382e1b420f3146f0458adb0c0eec3779a0",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2015-2020/benzin-2.0-chha-rs",
-      "file": "profiles/skoda/octavia/2015-2020/benzin-2.0-chha-rs.json",
+      "file": "skoda/octavia/2015-2020/benzin-2.0-chha-rs.json",
       "bytes": 846,
       "sha256": "697f5679ae82a04c3932e16beae32bc1b5e5b363c014a01f757a21dec7908d17",
       "date": "2026-11-01"
     },
     {
       "id": "skoda/octavia/2017-2020/benzin-2.0-dlba-rs",
-      "file": "profiles/skoda/octavia/2017-2020/benzin-2.0-dlba-rs.json",
+      "file": "skoda/octavia/2017-2020/benzin-2.0-dlba-rs.json",
       "bytes": 846,
       "sha256": "791653baa51a21b52cc61568b39b92d39242af959d0e07d8597cee98ff952c1e",
       "date": "2026-11-01"
     },
     {
       "id": "toyota/gr86/2022-2024/benzin-2.4-fa24",
-      "file": "profiles/toyota/gr86/2022-2024/benzin-2.4-fa24.json",
+      "file": "toyota/gr86/2022-2024/benzin-2.4-fa24.json",
       "bytes": 994,
       "sha256": "fbfa6b844c04f070dd71f68350eeb05ef07fbc1f4e1c7468a4300e0ce74aedf0",
       "date": "2026-10-24"
     },
     {
       "id": "toyota/gt86/2012-2016/benzin-2.0-fa20",
-      "file": "profiles/toyota/gt86/2012-2016/benzin-2.0-fa20.json",
+      "file": "toyota/gt86/2012-2016/benzin-2.0-fa20.json",
       "bytes": 1196,
       "sha256": "efb9cd2f1dade8d4f956c87fab852714cfcd529774e39da4126cdb8386487503",
       "date": "2026-11-01"
     },
     {
       "id": "toyota/gt86/2017-2021/benzin-2.0-fa20-facelift",
-      "file": "profiles/toyota/gt86/2017-2021/benzin-2.0-fa20-facelift.json",
+      "file": "toyota/gt86/2017-2021/benzin-2.0-fa20-facelift.json",
       "bytes": 1012,
       "sha256": "0a617b2b8268383ea77a7ccf8ce0e476a06760d73d7c69b7df37e75fb61ad0a0",
       "date": "2026-10-24"
     },
     {
       "id": "vw/golf/1997-2000/benzin-1.6-aeh",
-      "file": "profiles/vw/golf/1997-2000/benzin-1.6-aeh.json",
+      "file": "vw/golf/1997-2000/benzin-1.6-aeh.json",
       "bytes": 1030,
       "sha256": "f533d9d9fab86320a2a34b995a3f9de3a5afa0167ba9701814eb9ba04dd9fa34",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1998-2001/benzin-1.8-agu-gti",
-      "file": "profiles/vw/golf/1998-2001/benzin-1.8-agu-gti.json",
+      "file": "vw/golf/1998-2001/benzin-1.8-agu-gti.json",
       "bytes": 996,
       "sha256": "1b466db7d8dd908ca47ea665880f6409ff487187f974dc2fbc50ffb71d9650e4",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1998-2001/diesel-1.9-ajm",
-      "file": "profiles/vw/golf/1998-2001/diesel-1.9-ajm.json",
+      "file": "vw/golf/1998-2001/diesel-1.9-ajm.json",
       "bytes": 950,
       "sha256": "d0da400921bec24186e6d81da5a3ad9db274dde9be2ab32055da4dae95855d5c",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1998-2002/diesel-1.9-ahf",
-      "file": "profiles/vw/golf/1998-2002/diesel-1.9-ahf.json",
+      "file": "vw/golf/1998-2002/diesel-1.9-ahf.json",
       "bytes": 950,
       "sha256": "bf5da14d3f10316841e9a544b83fa69c4f57716217c15e15af6f3d1c00ac54fa",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1998-2006/benzin-1.8-agn",
-      "file": "profiles/vw/golf/1998-2006/benzin-1.8-agn.json",
+      "file": "vw/golf/1998-2006/benzin-1.8-agn.json",
       "bytes": 1021,
       "sha256": "ba2ab0d71461f04a86b32d45e24036ae08fef4e8314c47eeb59e2215f6d1e0fd",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1998-2006/diesel-1.9-agp-sdi",
-      "file": "profiles/vw/golf/1998-2006/diesel-1.9-agp-sdi.json",
+      "file": "vw/golf/1998-2006/diesel-1.9-agp-sdi.json",
       "bytes": 947,
       "sha256": "2fd3c316059905692ee4eacf483e24e0d3321f43319229331b26a1d9c1f6d755",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1998-2006/diesel-1.9-agr",
-      "file": "profiles/vw/golf/1998-2006/diesel-1.9-agr.json",
+      "file": "vw/golf/1998-2006/diesel-1.9-agr.json",
       "bytes": 947,
       "sha256": "19e7c0a338b2b44a033b2f2ac2f6810d808d0dd30a5ad6b09b3cb30602ec6f7d",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/1999-2001/benzin-2.0-aeg",
-      "file": "profiles/vw/golf/1999-2001/benzin-2.0-aeg.json",
+      "file": "vw/golf/1999-2001/benzin-2.0-aeg.json",
       "bytes": 1030,
       "sha256": "78c01470d923f43eb4ed00dda9461cdc4ff46070097db06b3fab420191cf36af",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2000-2003/diesel-1.9-arl",
-      "file": "profiles/vw/golf/2000-2003/diesel-1.9-arl.json",
+      "file": "vw/golf/2000-2003/diesel-1.9-arl.json",
       "bytes": 943,
       "sha256": "35001fec6576725503bb962827f771371b5d3f1583dfa8e75af027d11538cfd2",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2000-2006/benzin-1.6-aus",
-      "file": "profiles/vw/golf/2000-2006/benzin-1.6-aus.json",
+      "file": "vw/golf/2000-2006/benzin-1.6-aus.json",
       "bytes": 1037,
       "sha256": "468eaca1e0283ec176f32a5566291b18c532e6f90b8a0f00f0ae22aa353305cc",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2000-2006/benzin-1.6-avu",
-      "file": "profiles/vw/golf/2000-2006/benzin-1.6-avu.json",
+      "file": "vw/golf/2000-2006/benzin-1.6-avu.json",
       "bytes": 1022,
       "sha256": "dd4294454a2b31323d10bfd95535d6462b204b8d7a8917def0e01d75cf33443d",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2000-2006/diesel-1.9-atd",
-      "file": "profiles/vw/golf/2000-2006/diesel-1.9-atd.json",
+      "file": "vw/golf/2000-2006/diesel-1.9-atd.json",
       "bytes": 950,
       "sha256": "79d86904bc9d648ae76270d0bcaf795c4844de10a1d19b0e6ed103d80d061395",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2001-2004/benzin-3.2-bjs-r32",
-      "file": "profiles/vw/golf/2001-2004/benzin-3.2-bjs-r32.json",
+      "file": "vw/golf/2001-2004/benzin-3.2-bjs-r32.json",
       "bytes": 926,
       "sha256": "e4652b5f32aa446a322a8fbc2e9d49a88954701610798b4e71c8203102421a62",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2001-2006/benzin-1.8-auq-gti",
-      "file": "profiles/vw/golf/2001-2006/benzin-1.8-auq-gti.json",
+      "file": "vw/golf/2001-2006/benzin-1.8-auq-gti.json",
       "bytes": 860,
       "sha256": "49add34f5e9c2ff0927b7e7cd34bc4106f13b21c2480197b8f5668ccf36a1058",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2001-2006/benzin-2.0-azh",
-      "file": "profiles/vw/golf/2001-2006/benzin-2.0-azh.json",
+      "file": "vw/golf/2001-2006/benzin-2.0-azh.json",
       "bytes": 926,
       "sha256": "8d4bfc16141b09a90b3028e872646294ed2ab2c428f35e5942b083dfb7e0dfcf",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2001-2006/diesel-1.9-asz",
-      "file": "profiles/vw/golf/2001-2006/diesel-1.9-asz.json",
+      "file": "vw/golf/2001-2006/diesel-1.9-asz.json",
       "bytes": 942,
       "sha256": "05fa7b9d74d60cf6c8821297d2a9c491b0cfb570c8b3912ac062ec10b7506379",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2002-2005/benzin-1.6-bad-fsi",
-      "file": "profiles/vw/golf/2002-2005/benzin-1.6-bad-fsi.json",
+      "file": "vw/golf/2002-2005/benzin-1.6-bad-fsi.json",
       "bytes": 916,
       "sha256": "a9e6ec16024dec9e4e52ed392ac2ca282923affe88a6711e249ed8bc3b5af3ec",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2003-2007/benzin-1.6-bag-fsi",
-      "file": "profiles/vw/golf/2003-2007/benzin-1.6-bag-fsi.json",
+      "file": "vw/golf/2003-2007/benzin-1.6-bag-fsi.json",
       "bytes": 931,
       "sha256": "c3247a62fef8581dcf096709e5a9dc9bfcbe420123e1d83aaaaed18d7b88b9d7",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2003-2008/diesel-1.9-bjb",
-      "file": "profiles/vw/golf/2003-2008/diesel-1.9-bjb.json",
+      "file": "vw/golf/2003-2008/diesel-1.9-bjb.json",
       "bytes": 965,
       "sha256": "cfaeb201c051e42b7edd8a60c2b5b2cb895141cebaf10ac550b6613b0377456e",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2003-2008/diesel-2.0-azv",
-      "file": "profiles/vw/golf/2003-2008/diesel-2.0-azv.json",
+      "file": "vw/golf/2003-2008/diesel-2.0-azv.json",
       "bytes": 955,
       "sha256": "15c37f36b8e861d86aa048b8594529b9a270b6a9e1a6e8a8fd099af2dccb5632",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2004-2008/benzin-1.6-bgu",
-      "file": "profiles/vw/golf/2004-2008/benzin-1.6-bgu.json",
+      "file": "vw/golf/2004-2008/benzin-1.6-bgu.json",
       "bytes": 924,
       "sha256": "46e6051c9569223e102e75690db7df5614e32cd70b0ddea39994a853a5b9d6c3",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2004-2008/benzin-2.0-axw-fsi",
-      "file": "profiles/vw/golf/2004-2008/benzin-2.0-axw-fsi.json",
+      "file": "vw/golf/2004-2008/benzin-2.0-axw-fsi.json",
       "bytes": 939,
       "sha256": "f33b16d5bcde6023dbfcff096a7f64e6db451aad6d1d0a71ac930f34ae87ac14",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2004-2008/benzin-2.0-axx-gti",
-      "file": "profiles/vw/golf/2004-2008/benzin-2.0-axx-gti.json",
+      "file": "vw/golf/2004-2008/benzin-2.0-axx-gti.json",
       "bytes": 852,
       "sha256": "193bc44c1ac20bced5bbed3905b2729c1a3f1d79d7bc7c672310c07cb4f2e537",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2004-2008/diesel-1.9-bru",
-      "file": "profiles/vw/golf/2004-2008/diesel-1.9-bru.json",
+      "file": "vw/golf/2004-2008/diesel-1.9-bru.json",
       "bytes": 849,
       "sha256": "2b5a6c8168d7cb05f1c6fa521b406ffafa242b5d170b73a216887b6387f742f2",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2005-2008/benzin-3.2-bub-r32",
-      "file": "profiles/vw/golf/2005-2008/benzin-3.2-bub-r32.json",
+      "file": "vw/golf/2005-2008/benzin-3.2-bub-r32.json",
       "bytes": 905,
       "sha256": "a894ab1611bf823e70ec161887ad6b5b764781e1770581cc65d2726c427334c8",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2006-2008/diesel-2.0-bmn-gt",
-      "file": "profiles/vw/golf/2006-2008/diesel-2.0-bmn-gt.json",
+      "file": "vw/golf/2006-2008/diesel-2.0-bmn-gt.json",
       "bytes": 834,
       "sha256": "32f839d24729e1fa146a9b9a96f641fc18fd92bea4b54f3a456d14cefb903c79",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2007-2008/benzin-2.0-tfsi-gti-edition30",
-      "file": "profiles/vw/golf/2007-2008/benzin-2.0-tfsi-gti-edition30.json",
+      "file": "vw/golf/2007-2008/benzin-2.0-tfsi-gti-edition30.json",
       "bytes": 859,
       "sha256": "6273338869c4cc9f05bb4c03eb57e91cf8972725bb69a57d2145f021613062bf",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2008-2012/benzin-1.6-bse",
-      "file": "profiles/vw/golf/2008-2012/benzin-1.6-bse.json",
+      "file": "vw/golf/2008-2012/benzin-1.6-bse.json",
       "bytes": 934,
       "sha256": "8f6c9840da150372e280a490b015b496a55cb6cbe03888f6c307076f9afded38",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2008-2012/benzin-2.0-cczb-gti",
-      "file": "profiles/vw/golf/2008-2012/benzin-2.0-cczb-gti.json",
+      "file": "vw/golf/2008-2012/benzin-2.0-cczb-gti.json",
       "bytes": 842,
       "sha256": "a9e3b2a38e1b4fe49e1770de0c9fb1f08a243537d72ab3d7c0f42158f7a274bb",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2008-2012/diesel-2.0-cbaa",
-      "file": "profiles/vw/golf/2008-2012/diesel-2.0-cbaa.json",
+      "file": "vw/golf/2008-2012/diesel-2.0-cbaa.json",
       "bytes": 867,
       "sha256": "319c25552c86e840e4a860c1612721268f8324618ba0d74e8753089ce49b105f",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2008-2012/diesel-2.0-cbdc",
-      "file": "profiles/vw/golf/2008-2012/diesel-2.0-cbdc.json",
+      "file": "vw/golf/2008-2012/diesel-2.0-cbdc.json",
       "bytes": 846,
       "sha256": "89054134a04f599f75622978e544e1f39df2e9cc3ff491acb98dcc82eaa47d1c",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2009-2012/benzin-2.0-cdlf-r",
-      "file": "profiles/vw/golf/2009-2012/benzin-2.0-cdlf-r.json",
+      "file": "vw/golf/2009-2012/benzin-2.0-cdlf-r.json",
       "bytes": 855,
       "sha256": "a2f0e77ccd5084b747b13b3626bd545164bc013fd5e413e7250dc757780b4b76",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2009-2012/diesel-2.0-cbbb-gtd",
-      "file": "profiles/vw/golf/2009-2012/diesel-2.0-cbbb-gtd.json",
+      "file": "vw/golf/2009-2012/diesel-2.0-cbbb-gtd.json",
       "bytes": 857,
       "sha256": "572bab1c97f6900d8bffd07ee093dc28feebdec7339785b1559cf7d9965126b9",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2011-2012/benzin-2.0-cdlg-gti-35",
-      "file": "profiles/vw/golf/2011-2012/benzin-2.0-cdlg-gti-35.json",
+      "file": "vw/golf/2011-2012/benzin-2.0-cdlg-gti-35.json",
       "bytes": 843,
       "sha256": "affb59b752b9897a2406d3775436313437050d337d03954cbd8317441f327406",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2012-2014/diesel-1.6-clh",
-      "file": "profiles/vw/golf/2012-2014/diesel-1.6-clh.json",
+      "file": "vw/golf/2012-2014/diesel-1.6-clh.json",
       "bytes": 824,
       "sha256": "29ef682d73a247d4801d68122c9d2ea940bd761cbce40d3839ad924063f3faef",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2013-2016/benzin-2.0-chha-gti-performance",
-      "file": "profiles/vw/golf/2013-2016/benzin-2.0-chha-gti-performance.json",
+      "file": "vw/golf/2013-2016/benzin-2.0-chha-gti-performance.json",
       "bytes": 927,
       "sha256": "b00d8d74de9d756a3a952a1a00f79894a65b8f46a17659b391790f88e4394f54",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2013-2016/benzin-2.0-chhb-gti",
-      "file": "profiles/vw/golf/2013-2016/benzin-2.0-chhb-gti.json",
+      "file": "vw/golf/2013-2016/benzin-2.0-chhb-gti.json",
       "bytes": 915,
       "sha256": "75c9b98f52a2ba389dea608ccdacbe0bc855908c7763934770a0116842b99381",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2013-2020/diesel-2.0-crbc",
-      "file": "profiles/vw/golf/2013-2020/diesel-2.0-crbc.json",
+      "file": "vw/golf/2013-2020/diesel-2.0-crbc.json",
       "bytes": 843,
       "sha256": "8d8a22948da78a01337f8a3135467657c0f41c960c6e6dccdbacf75a52c9d24a",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2013-2020/diesel-2.0-cuna-gtd",
-      "file": "profiles/vw/golf/2013-2020/diesel-2.0-cuna-gtd.json",
+      "file": "vw/golf/2013-2020/diesel-2.0-cuna-gtd.json",
       "bytes": 853,
       "sha256": "b198e716b3717768c71351c08cfcda302838e108f5d5c76ae55fddca2ea9eac3",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2014-2016/benzin-2.0-cjxc-r",
-      "file": "profiles/vw/golf/2014-2016/benzin-2.0-cjxc-r.json",
+      "file": "vw/golf/2014-2016/benzin-2.0-cjxc-r.json",
       "bytes": 831,
       "sha256": "d390b5192303e8ca4ef0c064299f4fd7b204219e82090ebe245055277935dc39",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2014-2016/diesel-1.6-dbk",
-      "file": "profiles/vw/golf/2014-2016/diesel-1.6-dbk.json",
+      "file": "vw/golf/2014-2016/diesel-1.6-dbk.json",
       "bytes": 790,
       "sha256": "5ecdc45a81ef5cb89ba46e45d0f0465839c87949bf88681bae520a3388de1bda",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2016-2016/benzin-2.0-ea888-gti-clubsport",
-      "file": "profiles/vw/golf/2016-2016/benzin-2.0-ea888-gti-clubsport.json",
+      "file": "vw/golf/2016-2016/benzin-2.0-ea888-gti-clubsport.json",
       "bytes": 845,
       "sha256": "2b1bd43a0a9cd5261a2e62e199c9b4b97479ecd43e45e5a4d651e59fd387aea8",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2016-2018/benzin-2.0-djha-r",
-      "file": "profiles/vw/golf/2016-2018/benzin-2.0-djha-r.json",
+      "file": "vw/golf/2016-2018/benzin-2.0-djha-r.json",
       "bytes": 840,
       "sha256": "e922640ba3ac52b6ae475c26cca423643308091bc948b4c1e7bc476dfec4a247",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2017-2020/benzin-1.5-dpb",
-      "file": "profiles/vw/golf/2017-2020/benzin-1.5-dpb.json",
+      "file": "vw/golf/2017-2020/benzin-1.5-dpb.json",
       "bytes": 988,
       "sha256": "31112fbcf504e3c02a50ea5a9fb1a5b4d00cbf586634e0a6651f39ec1f3c4a99",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2017-2020/benzin-1.5-dpc",
-      "file": "profiles/vw/golf/2017-2020/benzin-1.5-dpc.json",
+      "file": "vw/golf/2017-2020/benzin-1.5-dpc.json",
       "bytes": 989,
       "sha256": "4f0abdcc70187bf259d852d13517808f958fd5cee26cf71dc5b53f6acd479792",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2017-2020/benzin-2.0-dlba-gti-performance",
-      "file": "profiles/vw/golf/2017-2020/benzin-2.0-dlba-gti-performance.json",
+      "file": "vw/golf/2017-2020/benzin-2.0-dlba-gti-performance.json",
       "bytes": 936,
       "sha256": "bceaba9c74ab7753bae2d29f7c0d9d80a8ea9155d840342c9ce8e2bb6621d306",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2017-2020/benzin-2.0-ea888-gti-facelift",
-      "file": "profiles/vw/golf/2017-2020/benzin-2.0-ea888-gti-facelift.json",
+      "file": "vw/golf/2017-2020/benzin-2.0-ea888-gti-facelift.json",
       "bytes": 844,
       "sha256": "97d5e59dc18b0d7d4154c107810adfe9b6ef62b1bfd44fdd24d1ea3b37db2ee4",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2017-2020/diesel-1.6-dgt",
-      "file": "profiles/vw/golf/2017-2020/diesel-1.6-dgt.json",
+      "file": "vw/golf/2017-2020/diesel-1.6-dgt.json",
       "bytes": 834,
       "sha256": "6d109d1947ce3b40bba4602c2cf11d78e3034bd0c62951552dc124053b47209b",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2018-2020/benzin-2.0-dnue-r",
-      "file": "profiles/vw/golf/2018-2020/benzin-2.0-dnue-r.json",
+      "file": "vw/golf/2018-2020/benzin-2.0-dnue-r.json",
       "bytes": 835,
       "sha256": "1641d24a85a4891a933cfa072f4cfaf18215c5b99071af24f9a6d603f0b0fe96",
       "date": "2026-11-01"
     },
     {
       "id": "vw/golf/2019-2024/benzin-1.5-dpb",
-      "file": "profiles/vw/golf/2019-2024/benzin-1.5-dpb.json",
+      "file": "vw/golf/2019-2024/benzin-1.5-dpb.json",
       "bytes": 1017,
       "sha256": "b3fab0171fa23929e1d12c7bbccee2f714804f2364e6ea2317e1832937c2ca4b",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2019-2024/benzin-1.5-dpc",
-      "file": "profiles/vw/golf/2019-2024/benzin-1.5-dpc.json",
+      "file": "vw/golf/2019-2024/benzin-1.5-dpc.json",
       "bytes": 1018,
       "sha256": "8571ff71cda5eabf8cce714691c9d225cad62be9b5e1b7a47c90e48a5d484e95",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2024-2026/benzin-1.5-dpc-facelift",
-      "file": "profiles/vw/golf/2024-2026/benzin-1.5-dpc-facelift.json",
+      "file": "vw/golf/2024-2026/benzin-1.5-dpc-facelift.json",
       "bytes": 1027,
       "sha256": "403f9b1e88c1d63cf6be6cb00dc4dc49fb2d94ea73f4167cfb4376c1669ed55f",
       "date": "2026-10-21"
     },
     {
       "id": "vw/golf/2024-2026/benzin-1.5-dxd",
-      "file": "profiles/vw/golf/2024-2026/benzin-1.5-dxd.json",
+      "file": "vw/golf/2024-2026/benzin-1.5-dxd.json",
       "bytes": 1026,
       "sha256": "793662c4af86cc5e18b8c043de387c5f2650ce51f037667d873851b9b94b6874",
       "date": "2026-10-21"
     }
-  ]
+  ],
+  "bundle": {
+    "file": "latest/profiles.zip",
+    "bytes": 171052,
+    "sha256": "5c84765f26d55f479290faca55b0920205730e04220664984a6aac0dc4d5f8bd"
+  }
 }
